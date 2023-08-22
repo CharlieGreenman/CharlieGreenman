@@ -1,4 +1,5 @@
-### Hi there I'm Charlie Greenman 👋
+### [![committers.top badge](https://user-badge.committers.top/worldwide_private/Octomerger.svg)](https://user-badge.committers.top/worldwide_private/Octomerger) Hi there I'm Charlie Greenman 👋
+
 
 This meme for now sums me up *barks* #GotThatDawgInMe
 
@@ -11,7 +12,5 @@ If you are new developer trying to get an Angular job, Razroo will change your l
 I say this as a fellow friend.
 
 If you are a new developer, looking to get an Angular job, please use [razroo.com](razroo.com). It will make all the difference in your life.
-
-[![committers.top badge](https://user-badge.committers.top/worldwide_private/Octomerger.svg)](https://user-badge.committers.top/worldwide_private/Octomerger)
 
 ![dawg-in-me](https://github.com/CharlieGreenman/CharlieGreenman/assets/8540141/5dd58895-7d31-4d7d-ad24-198e3c439a91)
