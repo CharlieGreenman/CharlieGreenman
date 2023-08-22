@@ -3,7 +3,11 @@
 
 This meme for now sums me up *barks* #GotThatDawgInMe
 
+<hr>
+
 I spend most of my time consulting for the world's best companies. 
+
+<hr>
 
 I'm also the Founder of [Razroo](razroo.com) A Software Architect As An Application. 
 
