@@ -1,7 +1,7 @@
 ### [![committers.top badge](https://user-badge.committers.top/worldwide_private/Octomerger.svg)](https://user-badge.committers.top/worldwide_private/Octomerger) Hi there I'm Charlie Greenman 👋
 
 
-This meme for now sums me up * barks * #GotThatDawgInMe
+This meme for now sums me up.
 
 <hr>
 
