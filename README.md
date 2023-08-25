@@ -1,7 +1,6 @@
 ### [![committers.top badge](https://user-badge.committers.top/worldwide_private/Octomerger.svg)](https://user-badge.committers.top/worldwide_private/Octomerger) Hi there I'm Charlie Greenman 👋
 
-
-This meme for now sums me up.
+![Charlie Greenman Twitter Header (2)](https://github.com/CharlieGreenman/CharlieGreenman/assets/8540141/350095bc-7175-451b-9d46-bb5345a0460b)
 
 <hr>
 
