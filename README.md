@@ -4,10 +4,12 @@
 
 <hr>
 
-I spend most of my time consulting for the world's best companies. 
+When I first became a software engineer, I struggled to code and was always the weakest developer on the team. Now I'm ranked as a #1 product engineer worldwide, and produce open source that makes a difference for Fortune 500 companies. If you don't think you have what it takes, you do because I've been there and done that. 
+
+I currently spend most of my time consulting for the world's best companies. 
 
 <hr>
 
-Also, a notable shout out to Razroo. I work with the team over at [Razroo](https://razroo.com) A Software Architect As An Application. 
+Also, a notable shout-out to Razroo. I work with the team over at [Razroo](https://razroo.com) A Software Architect As An Application. 
 
 If you are a new developer trying to get an Angular job, you can use [razroo.com](razroo.com) to guide you autonomously toward creating an enterprise-grade application with experience. The sort of experience that teams are looking for in order to hire you. This would have saved me as a new dev 6-12 months of learning due to misdirection as a new Developer.
