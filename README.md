@@ -4,7 +4,9 @@
 
 <hr>
 
-When I first became a software engineer, I struggled to code and was always the weakest developer on the team. Now I'm ranked as a #1 product engineer worldwide, and produce open source that makes a difference for Fortune 500 companies. If you don't think you have what it takes, you do because I've been there and done that. 
+When I first became a software engineer, I struggled to code and was always the weakest developer on the team. Now I'm ranked as a #1 product engineer worldwide, and produce open source that makes a difference for Fortune 500 companies. If you don't think you have what it takes, you do because I've been there and done that. If you don't believe in yourself, I want you to, because I believe in you. 
+
+![the-interview-james-franco](https://github.com/CharlieGreenman/CharlieGreenman/assets/8540141/94bc9308-129e-45f3-b4ac-6e11ec455273)
 
 I currently spend most of my time consulting for the world's best companies. 
 
