@@ -1,6 +1,6 @@
 ### [![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman) Hi there I'm Charlie Greenman 👋
 
-![Charlie Greenman Twitter Header (2)](https://github.com/CharlieGreenman/CharlieGreenman/assets/8540141/350095bc-7175-451b-9d46-bb5345a0460b)
+![Charlie Greenman Twitter Header](https://github.com/CharlieGreenman/CharlieGreenman/assets/8540141/95ac1c3b-b9b0-465a-8f54-c03da7096474)
 
 <hr>
 
