@@ -4,7 +4,7 @@
 
 <hr>
 
-When I first became a software engineer, I struggled to code and was always the weakest developer on the team. Up until about a year in of being a Junior Software Engineer, it felt like every week I would lose my job.
+When I first became a software engineer, I struggled to code and was always the weakest developer on the team. In large part to being new, but it was still a struggle.
 
 Now I'm ranked as a #1 product engineer worldwide, and produce open source that makes a difference for Fortune 500 companies. 
 
