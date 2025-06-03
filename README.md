@@ -49,6 +49,8 @@ Can see gumroad mini books as well:
 - Angular Unit Testing: https://razroo.gumroad.com/l/angular-unit-testing
 
 ### Razroo Blog
+[blog.razroo.com](blog.razroo.com)
+
 About 200 of my articles are on the Razroo blog. Like an idiot, I delete about 70 from Medium and messed up my SEO to move to this blog. Learn from me and don't do that. Double post on both sorts, but... we now have AI, so yeah. 
 
 ### Medium
