@@ -1,4 +1,10 @@
-    ===============================================================================
+### [![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman)
+![](https://komarev.com/ghpvc/?username=CharlieGreenman)
+
+## About ME
+I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
+
+```    ===============================================================================
     
                               T E T R I S
                             LEVEL: 05  LINES: 127
@@ -34,12 +40,6 @@
     
     ===============================================================================
 ```
-
-### [![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman)
-![](https://komarev.com/ghpvc/?username=CharlieGreenman)
-
-## About ME
-I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
 ### What I do
 
