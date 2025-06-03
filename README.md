@@ -1,6 +1,39 @@
 ### [![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman)
 ![](https://komarev.com/ghpvc/?username=CharlieGreenman)
 
+## About ME
+I’m Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people.
+
+---
+
+What I do
+
+Architect & ship AI-first products
+ • Created an AI ticketing engine that spins up 30–40 actionable Jira issues in seconds.
+ • Designed a memory × semantic-search layer that lets assistants anticipate user needs long before they ask.
+
+Lead elite, “micro-but-mighty” teams
+ I believe five exceptional engineers out-execute fifty average ones—and I build cultures that prove it.
+
+Champion human-centric tech
+ From blockchain-based data privacy to AI-powered firefighting concepts, my work centers on raising quality of life, not just quarterly numbers.
+
+---
+
+How I think
+
+* Utility-first mindset (Tailwind, GraphQL, serverless)
+* Future-focused writing (AGI architecture, UBI, AI compression)
+* Community & ownership 501(c)(3) founder, open-knowledge advocate, believer in sharing upside with contributors.
+
+---
+
+Why connect
+
+If you’re exploring AI that empowers, prefer simple, elegant solutions, and value speed with substance, let’s talk. Whether you need a fractional CTO, a sounding board for an ambitious idea, or a partner to co-create the next leap forward, I’m game.
+
+Shoot me a message—let’s build something that matters.
+
 ### Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
 
