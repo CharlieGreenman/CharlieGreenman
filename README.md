@@ -57,14 +57,15 @@ About 200 of my articles are on the Razroo blog. Like an idiot, I delete about 7
 
 ### Companies I've Worked For
 
-• **Razroo** - Technical Founder building AI-powered code generation tools and ticketing systems (2018-Present)
-• **ASCO** - Senior Software Engineer migrating Enterprise Angular applications (2 years via Razroo)
-• **Capital One** - Full stack engineer on Enterprise payments system (6 months via Razroo)
-• **Columbia University** - Senior Software Engineer on course management system (2 years via Razroo)
-• **Datasite One** - UI Architect for M&A applications leading 3-4 engineers (3 years via Razroo)
-• **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017)
-• **Rubenstein Technology Group** - Front End Software Engineer for AM100 law firm solutions (2015-2016)
-• **Omnium Group** - Front End Engineer across multiple client projects and ventures (2010-2015)
+* **Razroo** - Technical Founder building AI-powered code generation tools and ticketing systems (2018-Present)
+* **ASCO** - Senior Software Engineer migrating Enterprise Angular applications (2 years via Razroo)
+* **Capital One** - Full stack engineer on Enterprise payments system (6 months via Razroo)
+* **Columbia University** - Senior Software Engineer on course management system (2 years via Razroo)
+* **Datasite One** - UI Architect for M&A applications leading 3-4 engineers (3 years via Razroo)
+* **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017)
+* **Rubenstein Technology Group** - Front End Software Engineer for AM100 law firm solutions (2015-2016)
+* **Omnium Group** - Front End Engineer across multiple client projects and ventures (2010-2015)
+
 
 I blame Entreprenuership, living overseas for five years, and December 2024 AKA AI Doom, for the amount of companies I worked for.
 
