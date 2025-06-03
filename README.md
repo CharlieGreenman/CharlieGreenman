@@ -39,7 +39,7 @@ Shoot me a message—let’s build something that matters.
 ## Publications 
 
 ### Angular: The Full Gamut (700 page book)
-Book on Angular, written before ChatGPT happened. (https://github.com/razroo/angular-content)[https://github.com/razroo/angular-content]
+Book on Angular, written before ChatGPT happened: https://github.com/razroo/angular-content
 
 I wrote about 600 of these pages riding on QM4 bus between Queens and Manhattan. I lived in Washington Heights for a while, consulting for Columbia University. When I did I wrote this book while on the Uber on the way there and back(yes I make money. 
 
