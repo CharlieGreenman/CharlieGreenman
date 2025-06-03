@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=CharlieGreenman)
 
 ## About ME
-I’m Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people.
+I’m Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
+
 
 ---
 
@@ -16,7 +17,13 @@ Lead elite, “micro-but-mighty” teams
  I believe five exceptional engineers out-execute fifty average ones—and I build cultures that prove it.
 
 Champion human-centric tech
- From blockchain-based data privacy to AI-powered firefighting concepts, my work centers on raising quality of life, not just quarterly numbers.
+From blockchain-based data privacy to AI-powered firefighting concepts, my work centers on raising quality of life, not just quarterly numbers.
+
+### Teams I've Managed
+
+During my time building Razroo, the company and its products at [razroo.com](razroo.com), I've had the privilege of welcoming over 100 people into Razroo's Slack Channel. 
+In our heyday, we had 25 people a part of the organization reporting directly to me. These days, while Razroo's IP is arguably worth millions of dollars, our organization is a bit smaller. 
+However, in the near future, our hope is that our products and services will be ubiquitous in the B2B space. 
 
 ---
 
@@ -28,7 +35,7 @@ Champion human-centric tech
 
 ---
 
-Why connect
+### Why connect
 
 If you’re exploring AI that empowers, prefer simple, elegant solutions, and value speed with substance, let’s talk. Whether you need a fractional CTO, a sounding board for an ambitious idea, or a partner to co-create the next leap forward, I’m game.
 
