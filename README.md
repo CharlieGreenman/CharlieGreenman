@@ -191,6 +191,20 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 
 I blame Entreprenuership, living overseas for five years, and December 2024 AKA AI Doom, for the amount of companies I worked for.
 
+## Cities I've Lived(been around)
+- Houston, TX (most space to roam + spacious suburbs)
+- Chicago, IL (very homey)
+- Queens, NY (college. I'm not a big fan of queens)
+- Long Island, NY (work)
+- Manhattan, NY (favorite city, but also why am i here?)
+- Jerusalem, IL (world's best food, yes.)
+- Tel Aviv, IL (beaches and tech)
+- London, UK (work + world's best countryside)
+- SF, CA (world's best founders and co)
+- Los Angeles, CA (world's best weather + breezy)
+- Silver Spring, MD (cheap but still near stuff)
+- Arlington, VA (work, but surprisingly alot of people)
+- Alexandria, VA (leafy overture)
 
 ## Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
