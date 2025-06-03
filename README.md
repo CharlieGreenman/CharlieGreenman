@@ -52,9 +52,8 @@ Can see gumroad mini books as well:
 About 200 of my articles are on the Razroo blog. Like an idiot, I delete about 70 from Medium and messed up my SEO to move to this blog. Learn from me and don't do that. Double post on both sorts, but... we now have AI, so yeah. 
 
 ### Medium
-My medium is https://charliegreenman.medium.com/ where I once averaging about 300,000 views a month, before once again like an idiot I deleted my Medium post. Lesson learnt. Also I'm sorry to the thousands of codebases that reference those articles that no longer exists(didn't think about that either when I deleted). 
-
-
+My medium is https://charliegreenman.medium.com/. I tend to put new thought pieces here. I was once averaging about 300,000 views a month, before once again like an idiot I deleted my Medium post. Lesson learnt. 
+Also I'm sorry to the thousands of codebases that reference those articles that no longer exist (didn't think about that either when I deleted). 
 
 ## Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
