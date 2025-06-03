@@ -6,7 +6,7 @@ I’m Charlie Greenman, a New-York–based tech entrepreneur, software architect
 
 ---
 
-What I do
+### What I do
 
 Architect & ship AI-first products
  • Created an AI ticketing engine that spins up 30–40 actionable Jira issues in seconds.
@@ -20,7 +20,7 @@ Champion human-centric tech
 
 ---
 
-How I think
+### How I think
 
 * Utility-first mindset (Tailwind, GraphQL, serverless)
 * Future-focused writing (AGI architecture, UBI, AI compression)
@@ -34,7 +34,7 @@ If you’re exploring AI that empowers, prefer simple, elegant solutions, and va
 
 Shoot me a message—let’s build something that matters.
 
-### Greenman House Insignia
+## Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
 
 The foundation of the Greenman House Ethos can be found here: [https://github.com/Project-Creed/ethos](https://github.com/Project-Creed/ethos)
