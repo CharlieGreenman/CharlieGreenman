@@ -4,9 +4,6 @@
 ## About ME
 I’m Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
-
----
-
 ### What I do
 
 Architect & ship AI-first products
@@ -25,21 +22,19 @@ During my time building Razroo, the company and its products at [razroo.com](raz
 In our heyday, we had 25 people a part of the organization reporting directly to me. These days, while Razroo's IP is arguably worth millions of dollars, our organization is a bit smaller. 
 However, in the near future, our hope is that our products and services will be ubiquitous in the B2B space. 
 
----
-
 ### How I think
 
 * Utility-first mindset (Tailwind, GraphQL, serverless)
 * Future-focused writing (AGI architecture, UBI, AI compression)
 * Community & ownership 501(c)(3) founder, open-knowledge advocate, believer in sharing upside with contributors.
 
----
-
 ### Why connect
 
 If you’re exploring AI that empowers, prefer simple, elegant solutions, and value speed with substance, let’s talk. Whether you need a fractional CTO, a sounding board for an ambitious idea, or a partner to co-create the next leap forward, I’m game.
 
 Shoot me a message—let’s build something that matters.
+
+---
 
 ## Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
