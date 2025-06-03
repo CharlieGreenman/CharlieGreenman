@@ -36,6 +36,81 @@ Shoot me a message—let's build something that matters.
 
 ---
 
+### Programming Languages I Use
+TypeScript   ███████████████████████░░   Expert
+JavaScript   ███████████████████████░░   Expert
+Python       ███████████████████████░░   Expert
+JSON         ███████████████████████░░   Expert
+SCSS         ███████████████████████░░   Expert
+CSS3         ███████████████████████░░   Expert
+HTML5        ███████████████████████░░   Expert
+Markdown     ███████████████████████░░   Expert
+Bash         ███████████████████████░░   Expert
+Shell Script ███████████████████████░░   Expert
+GraphQL      ██████████████████████░░░   Advanced
+SQL          ██████████████████████░░░   Advanced
+
+### Backend & Cloud Technologies
+AWS          ███████████████████████░░   Expert
+Node.js      ███████████████████████░░   Expert
+Python       ███████████████████████░░   Expert
+PyTorch      ██████████████████████░░░   Advanced
+GCP          ██████████████████████░░░   Advanced
+Ghost        ██████████████████████░░░   Advanced
+Bitbucket    ██████████████████████░░░   Advanced
+Browsersync  ██████████████████████░░░   Advanced
+Browserify   ██████████████████████░░░   Advanced
+
+### Frontend Frameworks & Libraries
+Angular      ███████████████████████░░   Expert
+AngularJS    ███████████████████████░░   Expert
+React        ███████████████████████░░   Expert
+Vue.js       ██████████████████████░░░   Advanced
+Svelte       ██████████████████████░░░   Advanced
+NextJS       ██████████████████████░░░   Advanced
+Nx           ██████████████████████░░░   Advanced
+NgRx/store   ██████████████████████░░░   Advanced
+Redux        ██████████████████████░░░   Advanced
+Reason       ██████████████████████░░░   Advanced
+Velocity     ██████████████████████░░░   Advanced
+Zurb Foundation ████████████████████░░░   Advanced
+Bootstrap    ██████████████████████░░░   Advanced
+Backbone     ██████████████████████░░░   Advanced
+Babel        ██████████████████████░░░   Advanced
+Jade         ██████████████████████░░░   Advanced
+jQuery       ██████████████████████░░░   Advanced
+JSPM         ██████████████████████░░░   Advanced
+Karma        ██████████████████████░░░   Advanced
+SASS         ██████████████████████░░░   Advanced
+Webpack      ██████████████████████░░░   Advanced
+WordPress    ██████████████████████░░░   Advanced
+Yeoman       ██████████████████████░░░   Advanced
+
+### Database & DevOps
+PostgreSQL   ██████████████████████░░░   Advanced
+MongoDB      ██████████████████████░░░   Advanced
+MySQL        ██████████████████████░░░   Advanced
+DynamoDB     ██████████████████████░░░   Advanced
+Docker       ██████████████████████░░░   Advanced
+Vagrant      ██████████████████████░░░   Advanced
+Ansible      ██████████████████████░░░   Advanced
+API Gateway  ██████████████████████░░░   Advanced
+
+### Design & Collaboration Tools
+Photoshop    ██████████████████████░░░   Advanced
+Sketch       ██████████████████████░░░   Advanced
+Zeplin       ██████████████████████░░░   Advanced
+Illustrator  ██████████████████████░░░   Advanced
+InDesign     ██████████████████████░░░   Advanced
+Atlassian    ██████████████████████░░░   Advanced
+Confluence   ██████████████████████░░░   Advanced
+Jira         ██████████████████████░░░   Advanced
+Git          ███████████████████████░░   Expert
+NPM          ██████████████████████░░░   Advanced
+
+### Testing & Quality Assurance
+GSAP         ██████████████████████░░░   Advanced
+
 ## Publications 
 
 ### Angular: The Full Gamut (700 page book)
