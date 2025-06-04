@@ -212,7 +212,7 @@ I blame Entreprenuership, living overseas for five years, Covid-19(remember that
 - 👥 Arlington, VA (work, but surprisingly alot of people)
 - 🌿 Alexandria, VA (leafy overture)
 
-*As you can see I've been around. Most likely due to my complicated past with religion. In the arena as they say.*
+*As you can see I've been around. Most likely due to my complicated past with religion. Did you know I was once offered to be ordained as a Rabbi as early as age 18 nonetheless? In the arena as they say.*
 
 ## Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
