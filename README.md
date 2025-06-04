@@ -197,7 +197,7 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 
 I blame Entreprenuership, living overseas for five years, Covid-19(remember that?!) and December 2023 AKA AI Doom Month(I lost two contracts that month), for the amount of companies I worked for.
 
-## Cities I've Lived(been around)
+## Cities I've Lived(been around - prob due to my complicated past with religion)
 - 🚀 Houston, TX (most space to roam + spacious suburbs)
 - 🏠 Chicago, IL (very homey)
 - 🎓 Queens, NY (college. I'm not a big fan of queens)
