@@ -201,7 +201,7 @@ I blame Entreprenuership, living overseas for five years, Covid-19(remember that
 - 🚀 Houston, TX (most space to roam + spacious suburbs)
 - 🏠 Chicago, IL (very homey)
 - 🎓 Queens, NY (college. I'm not a big fan of queens)
-- 🏢 Long Island, NY (work, I loved being already person during winter chilling on the Long Beach boardwalk)
+- 🏢 Long Island, NY (work, I loved being only person during winter chilling on the Long Beach boardwalk)
 - 🗽 Manhattan, NY (favorite city, but also why am i here?)
 - 🍯 Jerusalem, IL (world's best food, yes.)
 - 🏖️ Tel Aviv, IL (beaches, tech and even better people)
