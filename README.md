@@ -197,7 +197,7 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 
 I blame Entreprenuership, living overseas for five years, Covid-19(remember that?!) and December 2023 AKA AI Doom Month(I lost two contracts that month), for the amount of companies I worked for.
 
-## Cities I've Lived(been around - prob due to my complicated past with religion)
+## Cities I've Lived
 - 🚀 Houston, TX (most space to roam + spacious suburbs)
 - 🏠 Chicago, IL (very homey)
 - 🎓 Queens, NY (college. I'm not a big fan of queens)
@@ -211,6 +211,8 @@ I blame Entreprenuership, living overseas for five years, Covid-19(remember that
 - 💰 Silver Spring, MD (work/cheap but still near stuff. Airbnb host called me quietest guest she ever had. That stuck with me for some reason. Like WTF are other guests doing? Anywho, I believe in traditional marriage.)
 - 👥 Arlington, VA (work, but surprisingly alot of people)
 - 🌿 Alexandria, VA (leafy overture)
+
+*As you can see I've been around. Most likely due to my complicated past with religion. In the arena as they say.*
 
 ## Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
