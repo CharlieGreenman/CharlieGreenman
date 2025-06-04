@@ -4,10 +4,8 @@
 ## About ME
 I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
-(Claude Sonnet 4 made this Tetris ASCII)
-
 ```    ===============================================================================
-    
+
                               T E T R I S
                             LEVEL: 05  LINES: 127
                               SCORE: 15840
@@ -41,6 +39,7 @@ I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, 
                               []        
     
     ===============================================================================
+// (Claude Sonnet 4 made this Tetris ASCII. Felt like a good README.MD palate cleanser.)
 ```
 
 ### What I do
