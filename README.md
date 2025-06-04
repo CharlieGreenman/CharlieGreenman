@@ -204,7 +204,7 @@ I blame Entreprenuership, living overseas for five years, Covid-19(remember that
 - 🏢 Long Island, NY (work, I loved being already person during winter chilling on the Long Beach boardwalk)
 - 🗽 Manhattan, NY (favorite city, but also why am i here?)
 - 🍯 Jerusalem, IL (world's best food, yes.)
-- 🏖️ Tel Aviv, IL (beaches and tech)
+- 🏖️ Tel Aviv, IL (beaches, tech and even better people)
 - 🇬🇧 London, UK (work + world's best countryside)
 - 💡 SF, CA (world's best founders and co)
 - ☀️ Los Angeles, CA (world's best weather + breezy)
