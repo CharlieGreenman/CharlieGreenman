@@ -208,7 +208,7 @@ I blame Entreprenuership, living overseas for five years, Covid-19(remember that
 - 🇬🇧 London, UK (work + world's best countryside)
 - 💡 SF, CA (world's best founders and co)
 - ☀️ Los Angeles, CA (world's best weather + breezy)
-- 💰 Silver Spring, MD (work/cheap but still near stuff. Airbnb host called me quietest guest she ever had. That stuck with me for some reason. Like WTF are other guests doing?)
+- 💰 Silver Spring, MD (work/cheap but still near stuff. Airbnb host called me quietest guest she ever had. That stuck with me for some reason. Like WTF are other guests doing? Anywho, I believe in traditional marriage.)
 - 👥 Arlington, VA (work, but surprisingly alot of people)
 - 🌿 Alexandria, VA (leafy overture)
 
