@@ -212,7 +212,7 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 - 👥 Arlington, VA (work, but surprisingly alot of people)
 - 🌿 Alexandria, VA (leafy overture)
 
-*As you can see I've been around. Most likely due to my complicated past with religion. Did you know I was once offered to be ordained as an Orthodox Rabbi as early as age 18 nonetheless? (Present day me is no longer religious, atleast in the strict sense of the word. I apologize to my father who was a rabbi, my grandfather who was a rabbi etc.) In the arena as they say.*
+*As you can see I've been around. Most likely due to my complicated past with religion. Did you know I was once offered to be ordained as an Orthodox Rabbi as early as age 18 nonetheless? (Present day me is no longer religious, atleast in the strict sense of the word. I apologize to my father who is a rabbi, my grandfather who is a rabbi etc.) In the arena as they say.*
 
 ## Greenman House Insignia
 <img src="https://github.com/user-attachments/assets/0ab25c6a-b499-4147-b643-66ca305bd020" width="350px" /> 
