@@ -176,7 +176,7 @@ Can see gumroad mini books as well:
 ### Razroo Blog
 [blog.razroo.com](https://blog.razroo.com)
 
-About 200 of my articles are on the Razroo blog. Like an idiot, I delete about 70 from Medium and messed up my SEO to move to this blog. Learn from me and don't do that. Double post on both sorts, but... we now have AI, so yeah. 
+About 200 of my articles are on the Razroo blog. Like an idiot, I deleted about 70 articles from Medium and messed up my SEO to move to this blog. Learn from me and don't do that. Double post on both sorts, but... we now have AI, so yeah. 
 
 ### Medium
 My medium is https://charliegreenman.medium.com/. I tend to put new thought pieces here. I was once averaging about 300,000 views a month, before once again like an idiot I deleted my Medium post. Lesson learnt. 
