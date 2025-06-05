@@ -189,13 +189,13 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 * ♻️ **Republic Services** - Python and React for their AI Chat Application (3 months - post 25% industry-wide pay cuts. Would have never left if understood industry better.)
 * 🎓 **Ruffalo Noel Levitz** - AI Chat application (worked at for negligable amount of time. During a chaotic shift in industry, in hindsight should have never joined.)
 * 💳 **Capital One** - Full stack engineer on Enterprise payments system (6 months via Razroo - left post Capital One making an increase Hybrid push)
-* 🏥 **ASCO** - Senior Software Engineer migrating Enterprise Angular applications (2 years via Razroo)
-* 🎓 **Columbia University** - Senior Software Engineer on course management system (2 years via Razroo)
-* 📊 **Datasite One** - UI Architect for M&A applications leading 3-4 engineers (3 years via Razroo)
-* 📱 **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017 - I worked remote pre-Covid)
-* ⚖️ **Rubenstein Technology Group** - Front End Software Engineer for AM100 law firm solutions (2015-2016)
-* 🐴 **Pegasus Solutions** - Took charge of architecting the entire front-end stack for the booking engine. (2015-2015)
-* 🏢 **Omnium Group** - Front End Engineer across multiple client projects and ventures (2010-2015)
+* 🏥 **ASCO** - Senior Software Engineer migrating Enterprise Angular applications (2 years via Razroo - AI and Covid caused budget cuts)
+* 🎓 **Columbia University** - Senior Software Engineer on course management system (2 years via Razroo - was great but Covid caused budget cuts)
+* 📊 **Datasite One** - UI Architect for M&A applications leading 3-4 engineers (3 years via Razroo - best director of engineering I ever worked for ❤️)
+* 📱 **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017 - I worked remote pre-Covid. The few the proud.)
+* ⚖️ **Rubenstein Technology Group** - Front End Software Engineer for AM100 law firm solutions (2015-2016 - engineering talent punched well above it's weight)
+* 🐴 **Pegasus Solutions** - Took charge of architecting the entire front-end stack for the booking engine. (2015-2015 - was a great starting place. Got job by answering question on recursion. Fond memories)
+* 🏢 **Omnium Group** - Front End Engineer across multiple client projects and ventures (2010-2015 - Thank you to my brother for giving me a start 💚)
 
 *I blame my overly amibitous younger self(went to 6 figures in 1.5 years by age 24, and double that amount by 26, so who is to blame? I thought I would continue to double amount in the next 3 years, but industry started changing.) Entreprenuership, living overseas for five years, Covid-19(non-remote to remote, and then back to non-remote wrecked alot of teams) and December 2023 AKA AI Doom Month(I lost two contracts that month), for the amount of companies I worked for. Also the industry has taken pay cuts for the first time in past 15 years. I didn't understand that until recently and was very unhappy with roles I had a year ago, which is why I left two of those roles.*
 
