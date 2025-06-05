@@ -197,7 +197,7 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 * 🏢 **Omnium Group** - Front End Engineer across multiple client projects and ventures (2010-2015)
 
 
-*I blame Entreprenuership, living overseas for five years, Covid-19(remember that?!) and December 2023 AKA AI Doom Month(I lost two contracts that month), for the amount of companies I worked for.*
+*I blame Entreprenuership, living overseas for five years, Covid-19(remember that?!) and December 2023 AKA AI Doom Month(I lost two contracts that month), for the amount of companies I worked for. Also the industry has taken pay cuts for the first time in past 15 years. I didn't understand that until recently and was very unhappy with roles I had a year ago, which is why I left two of those roles.*
 
 ## Cities I've Lived
 - 🚀 Houston, TX (most space to roam + spacious suburbs)
