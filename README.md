@@ -192,7 +192,7 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 * 💳 **Capital One** - Full stack engineer on Enterprise payments system (6 months via Razroo - left post Capital One making an increased Hybrid push)
 * 🏥 **ASCO** - Senior Software Engineer migrating Enterprise Angular applications (2 years via Razroo - AI and Covid caused budget cuts)
 * 🎓 **Columbia University** - Senior Software Engineer on course management system (2 years via Razroo - was great but Covid caused budget cuts)
-* 📊 **Datasite One** - UI Architect for M&A applications leading 3-4 engineers (3 years via Razroo - best director of engineering I ever worked for ❤️)
+* 📊 **Datasite One** - UI Architect for M&A applications leading 3-4 engineers (3 years via Razroo - best director of engineering I ever worked for ❤️. Left post moving overseas after deciding to take 6 months off.)
 * 📱 **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017 - I worked remote pre-Covid. The few the proud.)
 * ⚖️ **Rubenstein Technology Group** - Front End Software Engineer for AM100 law firm solutions (2015-2016 - engineering talent punched well above it's weight)
 * 🐴 **Pegasus Solutions** - Took charge of architecting the entire front-end stack for the booking engine. (2015-2015 - was a great starting place. Got job by answering question on recursion. Fond memories)
