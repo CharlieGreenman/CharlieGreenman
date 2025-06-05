@@ -187,12 +187,12 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 
 * 🚀 **Razroo** - Technical Founder building AI-powered code generation tools and ticketing systems (2018-Present)
 * 🏥 **ASCO** - Senior Software Engineer migrating Enterprise Angular applications (2 years via Razroo)
-* 💳 **Capital One** - Full stack engineer on Enterprise payments system (6 months via Razroo)
+* 💳 **Capital One** - Full stack engineer on Enterprise payments system (6 months via Razroo - left post Capital One making an increase Hybrid push)
 * 🎓 **Columbia University** - Senior Software Engineer on course management system (2 years via Razroo)
 * 📊 **Datasite One** - UI Architect for M&A applications leading 3-4 engineers (3 years via Razroo)
 * ♻️ **Republic Services** - Python and React for their AI Chat Application (3 months - post 25% industry-wide pay cuts. Would have never left if understood industry better.)
 * 🎓 **Ruffalo Noel Levitz** - AI Chat application (worked at for negligable amount of time. During a chaotic shift in industry, in hindsight should have never joined.)
-* 📱 **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017)
+* 📱 **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017 - I worked remote pre-Covid)
 * ⚖️ **Rubenstein Technology Group** - Front End Software Engineer for AM100 law firm solutions (2015-2016)
 * 🏢 **Omnium Group** - Front End Engineer across multiple client projects and ventures (2010-2015)
 
