@@ -194,10 +194,11 @@ Also I'm sorry to the thousands of codebases that reference those articles that 
 * 🎓 **Ruffalo Noel Levitz** - AI Chat application (worked at for negligable amount of time. During a chaotic shift in industry, in hindsight should have never joined.)
 * 📱 **Verizon** - Software Engineer and Front End Architect for Oath advertising platform (2016-2017 - I worked remote pre-Covid)
 * ⚖️ **Rubenstein Technology Group** - Front End Software Engineer for AM100 law firm solutions (2015-2016)
+* 🐴 **Pegasus Solutions** - Took charge of architecting the entire front-end stack for the booking engine. (2015-2015)
 * 🏢 **Omnium Group** - Front End Engineer across multiple client projects and ventures (2010-2015)
 
 
-*I blame Entreprenuership, living overseas for five years, Covid-19(remember that?!) and December 2023 AKA AI Doom Month(I lost two contracts that month), for the amount of companies I worked for. Also the industry has taken pay cuts for the first time in past 15 years. I didn't understand that until recently and was very unhappy with roles I had a year ago, which is why I left two of those roles.*
+*I blame my overly amibitous younger self(went to 6 figures in 1.5 years by age 24, and double that amount by 26, so who is to blame?) Entreprenuership, living overseas for five years, Covid-19(remember that?!) and December 2023 AKA AI Doom Month(I lost two contracts that month), for the amount of companies I worked for. Also the industry has taken pay cuts for the first time in past 15 years. I didn't understand that until recently and was very unhappy with roles I had a year ago, which is why I left two of those roles.*
 
 ## Cities I've Lived
 - 🚀 Houston, TX (most space to roam + spacious suburbs)
