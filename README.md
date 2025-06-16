@@ -1,6 +1,9 @@
 ### [![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman)
 ![](https://komarev.com/ghpvc/?username=CharlieGreenman)
 
+![street-fighter-sf2](https://github.com/user-attachments/assets/5e8b0c58-bce3-4836-864c-a6b70a42b55a)
+
+
 ## About ME
 I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
