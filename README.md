@@ -1,7 +1,10 @@
 ### [![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman)
 ![](https://komarev.com/ghpvc/?username=CharlieGreenman)
 
-ME  LOVE THE HUSTLE!!!
+ME  LOVE THE HUSTLE!!! (my boys wicked smawrt)
+
+![iq-score-checker-xyz](https://github.com/user-attachments/assets/c1483fbd-e066-4c78-aba2-339ec6382822)
+
 
 ![street-fighter-sf2](https://github.com/user-attachments/assets/5e8b0c58-bce3-4836-864c-a6b70a42b55a)
 
