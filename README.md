@@ -9,7 +9,7 @@ ME  LOVE THE HUSTLE!!! (my boys wicked smawrt)
 ![street-fighter-sf2](https://github.com/user-attachments/assets/5e8b0c58-bce3-4836-864c-a6b70a42b55a)
 
 Three main figures I look up to: 
-1. John von Neumann(rapid thinking, incredible progmatic engineer)
+1. John von Neumann(rapid thinking, incredible pragmatic engineering, on fundemental problems)
 2. Albert Einstein(original thinker on a literal cosmic level)
 3. Elon Musk(Applies outsized genius ideas to corporations and gets stuff done)
 
