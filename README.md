@@ -1,18 +1,6 @@
 ### [![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman)
 ![](https://komarev.com/ghpvc/?username=CharlieGreenman)
 
-ME  LOVE THE HUSTLE!!! (my boys wicked smawrt)
-
-![iq-score-checker-xyz](https://github.com/user-attachments/assets/c1483fbd-e066-4c78-aba2-339ec6382822)
-
-
-![street-fighter-sf2](https://github.com/user-attachments/assets/5e8b0c58-bce3-4836-864c-a6b70a42b55a)
-
-Three main figures I look up to: 
-1. John von Neumann(rapid thinking, incredible pragmatic engineering, on fundemental problems)
-2. Albert Einstein(original thinker on a literal cosmic level)
-3. Elon Musk(Applies outsized genius ideas to corporations and gets stuff done)
-
 ## About ME
 I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
