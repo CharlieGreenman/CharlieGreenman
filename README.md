@@ -5,7 +5,9 @@
 ## About ME
 I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
-also iykyk [Goldfinger - Superman (Official Audio).mp3](https://github.com/user-attachments/files/23703204/Goldfinger.-.Superman.Official.Audio.mp3)
+also iykyk  https://github.com/user-attachments/assets/a21ba3d3-d8ce-4a83-b9a0-8081d9e87554
+
+
 ```    ===============================================================================
 
                               T E T R I S
