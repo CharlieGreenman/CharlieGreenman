@@ -4,6 +4,8 @@
 ## About ME
 I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
+<img width="786" height="497" alt="Screenshot 2025-12-02 at 3 06 49 PM" src="https://github.com/user-attachments/assets/c586bbba-8e5e-467c-899a-fa03cd278883" />
+
 also iykyk  https://github.com/user-attachments/assets/a21ba3d3-d8ce-4a83-b9a0-8081d9e87554
 
 
