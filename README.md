@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=CharlieGreenman)
 
 ## About ME
-I'm Charlie Greenman, a New-York–based tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
+I'm Charlie Greenman, a New-York–based(soon Austin-based) tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
 <img width="786" height="497" alt="Screenshot 2025-12-15 at 3 30 30 PM" src="https://github.com/user-attachments/assets/43aa2967-9731-4a0c-b278-60dcf17c423e" />
 
