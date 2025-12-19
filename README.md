@@ -4,7 +4,7 @@
 ## About ME
 I'm Charlie Greenman, a New-York–based(soon Austin-based) tech entrepreneur, software architect, and self-professed quadrifecta developer—equally at home in DevOps, backend, frontend, and generative-AI R&D. After years of building for everyone from scrappy startups to enterprise clients, I founded Razroo, where we turn bleeding-edge AI into practical leverage for real people. 
 
-<img width="786" height="497" alt="Screenshot 2025-12-15 at 3 30 30 PM" src="https://github.com/user-attachments/assets/43aa2967-9731-4a0c-b278-60dcf17c423e" />
+![ChatGPT Image Dec 19, 2025, 04_12_20 PM](https://github.com/user-attachments/assets/d3c3f485-bb68-48aa-854d-f00ba47bb593)
 
 <img width="786" height="497" alt="Screenshot 2025-12-02 at 3 06 49 PM" src="https://github.com/user-attachments/assets/c586bbba-8e5e-467c-899a-fa03cd278883" />
 Link to gemini 3 output: https://docs.google.com/document/d/1VfVJCGh8bfAPfyOIsyAAmjS111dBLSiUh4DzY0WAEms/edit?usp=sharing
