@@ -1,63 +1,260 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Charlie Greenman profile hero</title>
-  <desc id="desc">A warm ivory banner with geometric architecture motifs, the name Charlie Greenman, and a summary of technical founder, generalist, and AI product builder.</desc>
+  <desc id="desc">A warm ivory banner with Charlie Greenman's name and an animated Tetris-inspired playfield showing pieces dropping, a line clearing, and play continuing.</desc>
+
   <defs>
     <linearGradient id="bg" x1="60" y1="40" x2="1220" y2="380" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FAF5ED"/>
       <stop offset="1" stop-color="#F1E8D9"/>
     </linearGradient>
+    <linearGradient id="panel" x1="944" y1="62" x2="1230" y2="362" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F0E4"/>
+      <stop offset="1" stop-color="#E9DDC7"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="968" y1="104" x2="1208" y2="344" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#223A33"/>
+      <stop offset="1" stop-color="#14231E"/>
+    </linearGradient>
     <linearGradient id="lineFade" x1="820" y1="50" x2="1240" y2="370" gradientUnits="userSpaceOnUse">
       <stop stop-color="#D5C3A2"/>
       <stop offset="1" stop-color="#E8DDC7" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1084 210) rotate(90) scale(170 170)">
-      <stop stop-color="#C7A36A" stop-opacity="0.22"/>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1088 212) rotate(90) scale(188 188)">
+      <stop stop-color="#C7A36A" stop-opacity="0.26"/>
       <stop offset="1" stop-color="#C7A36A" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="screenGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1088 224) rotate(90) scale(150 150)">
+      <stop stop-color="#FFF2D8" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#FFF2D8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="lineClear" x1="968" y1="228" x2="1208" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7EA" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#FFF7EA" stop-opacity="0.95"/>
+      <stop offset="0.5" stop-color="#E7C27F" stop-opacity="0.95"/>
+      <stop offset="0.84" stop-color="#FFF7EA" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#FFF7EA" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#6F8B80" stroke-opacity="0.34" stroke-width="1"/>
+    </pattern>
+    <clipPath id="boardClip">
+      <rect x="968" y="104" width="240" height="240" rx="18"/>
+    </clipPath>
   </defs>
+
+  <style>
+    .orbital {
+      animation: orbitalPulse 6.6s ease-in-out infinite;
+    }
+
+    .screen-glow {
+      animation: screenBreath 6.4s ease-in-out infinite;
+    }
+
+    .scan-band {
+      animation: scanSweep 7.6s linear infinite;
+    }
+
+    .status-dot {
+      animation: dotBlink 1.2s steps(2, end) infinite;
+    }
+
+    .stack-pre {
+      animation: showPre 8s infinite step-end;
+    }
+
+    .stack-post {
+      animation: showPost 8s infinite step-end;
+    }
+
+    .ghost-i {
+      animation: ghostFade 8s infinite step-end;
+    }
+
+    .i-piece {
+      animation: iDrop 8s infinite, pieceFade 8s infinite step-end;
+    }
+
+    .line-flash {
+      animation: lineFlash 8s infinite ease-out;
+    }
+
+    .t-piece {
+      animation: tRise 8s infinite, tFade 8s infinite step-end;
+    }
+
+    .spark-1 {
+      animation: sparkleOne 4.8s ease-in-out infinite;
+    }
+
+    .spark-2 {
+      animation: sparkleTwo 5.4s ease-in-out infinite;
+    }
+
+    .spark-3 {
+      animation: sparkleThree 6.2s ease-in-out infinite;
+    }
+
+    @keyframes orbitalPulse {
+      0%, 100% { opacity: 0.72; }
+      50% { opacity: 1; }
+    }
+
+    @keyframes screenBreath {
+      0%, 100% { opacity: 0.26; }
+      45% { opacity: 0.52; }
+      70% { opacity: 0.34; }
+    }
+
+    @keyframes scanSweep {
+      0% { transform: translateY(-188px); opacity: 0; }
+      10% { opacity: 0.12; }
+      45% { opacity: 0.28; }
+      80% { opacity: 0.16; }
+      100% { transform: translateY(224px); opacity: 0; }
+    }
+
+    @keyframes dotBlink {
+      0%, 45% { opacity: 0.35; }
+      46%, 100% { opacity: 1; }
+    }
+
+    @keyframes showPre {
+      0%, 74.9% { opacity: 1; }
+      75%, 100% { opacity: 0; }
+    }
+
+    @keyframes showPost {
+      0%, 74.9% { opacity: 0; }
+      75%, 100% { opacity: 1; }
+    }
+
+    @keyframes ghostFade {
+      0%, 60% { opacity: 0.38; }
+      61%, 100% { opacity: 0; }
+    }
+
+    @keyframes iDrop {
+      0%, 8% { transform: translate(144px, 0px); }
+      18%, 28% { transform: translate(144px, 48px); }
+      38%, 48% { transform: translate(144px, 96px); }
+      58%, 66% { transform: translate(144px, 144px); }
+      70%, 74.9% { transform: translate(144px, 216px); }
+      75%, 100% { transform: translate(144px, 216px); }
+    }
+
+    @keyframes pieceFade {
+      0%, 74.9% { opacity: 1; }
+      75%, 100% { opacity: 0; }
+    }
+
+    @keyframes lineFlash {
+      0%, 64% { opacity: 0; }
+      67% { opacity: 0.96; }
+      70% { opacity: 0.18; }
+      73% { opacity: 1; }
+      76%, 100% { opacity: 0; }
+    }
+
+    @keyframes tFade {
+      0%, 75% { opacity: 0; }
+      75.1%, 100% { opacity: 1; }
+    }
+
+    @keyframes tRise {
+      0%, 75% { transform: translate(144px, -72px); }
+      84% { transform: translate(144px, 0px); }
+      92% { transform: translate(144px, 36px); }
+      100% { transform: translate(144px, 72px); }
+    }
+
+    @keyframes sparkleOne {
+      0%, 100% { opacity: 0.2; }
+      50% { opacity: 0.9; }
+    }
+
+    @keyframes sparkleTwo {
+      0%, 100% { opacity: 0.12; }
+      35% { opacity: 0.72; }
+      75% { opacity: 0.25; }
+    }
+
+    @keyframes sparkleThree {
+      0%, 100% { opacity: 0.16; }
+      40% { opacity: 0.65; }
+      60% { opacity: 0.22; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .orbital,
+      .screen-glow,
+      .scan-band,
+      .status-dot,
+      .stack-pre,
+      .stack-post,
+      .ghost-i,
+      .i-piece,
+      .line-flash,
+      .t-piece,
+      .spark-1,
+      .spark-2,
+      .spark-3 {
+        animation: none !important;
+      }
+
+      .stack-pre,
+      .ghost-i,
+      .i-piece,
+      .line-flash {
+        opacity: 0;
+      }
+
+      .stack-post,
+      .t-piece {
+        opacity: 1;
+      }
+
+      .t-piece {
+        transform: translate(144px, 72px);
+      }
+    }
+  </style>
 
   <rect x="8" y="8" width="1264" height="404" rx="28" fill="url(#bg)"/>
   <rect x="20" y="20" width="1240" height="380" rx="20" stroke="#D1BE99" stroke-width="2"/>
 
-  <circle cx="1084" cy="210" r="170" fill="url(#glow)"/>
-  <circle cx="1084" cy="210" r="146" stroke="#D1BE99" stroke-width="1.5"/>
-  <circle cx="1084" cy="210" r="110" stroke="#D8C7A7" stroke-width="1"/>
-  <circle cx="1084" cy="210" r="72" stroke="#DFD3BC" stroke-width="1"/>
-  <path d="M938 210H1230" stroke="url(#lineFade)" stroke-width="1"/>
-  <path d="M1084 64V356" stroke="url(#lineFade)" stroke-width="1"/>
+  <path d="M72 108H828" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M72 336H676" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M72 376H676" stroke="#E6DAC2" stroke-width="1"/>
 
-  <path d="M904 82H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M904 118H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M904 154H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M904 190H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M904 226H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M904 262H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M904 298H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M904 334H1260" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M936 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M972 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1008 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1044 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1080 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1116 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1152 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1188 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1224 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <circle cx="1088" cy="212" r="188" fill="url(#glow)"/>
+  <circle cx="1088" cy="212" r="162" stroke="#D1BE99" stroke-width="1.5" class="orbital"/>
+  <circle cx="1088" cy="212" r="124" stroke="#D8C7A7" stroke-width="1" class="orbital"/>
+  <circle cx="1088" cy="212" r="88" stroke="#DFD3BC" stroke-width="1" class="orbital"/>
+  <path d="M924 212H1248" stroke="url(#lineFade)" stroke-width="1"/>
+  <path d="M1088 48V376" stroke="url(#lineFade)" stroke-width="1"/>
 
-  <rect x="968" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
-  <rect x="1000" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
-  <rect x="1032" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
-  <rect x="1032" y="216" width="30" height="30" rx="5" fill="#2D4A42"/>
+  <path d="M936 68H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 104H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 140H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 176H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 248H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 284H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 320H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 356H1240" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M972 44V380" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1008 44V380" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1044 44V380" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1080 44V380" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1116 44V380" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1152 44V380" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1188 44V380" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1224 44V380" stroke="#E2D6BF" stroke-width="1"/>
 
-  <rect x="1100" y="280" width="30" height="30" rx="5" fill="#B58746"/>
-  <rect x="1132" y="280" width="30" height="30" rx="5" fill="#B58746"/>
-  <rect x="1164" y="280" width="30" height="30" rx="5" fill="#B58746"/>
-  <rect x="1196" y="280" width="30" height="30" rx="5" fill="#B58746"/>
-
-  <rect x="1160" y="138" width="30" height="30" rx="5" fill="#4C6A61"/>
-  <rect x="1192" y="138" width="30" height="30" rx="5" fill="#4C6A61"/>
-  <rect x="1160" y="170" width="30" height="30" rx="5" fill="#4C6A61"/>
-  <rect x="1192" y="170" width="30" height="30" rx="5" fill="#4C6A61"/>
+  <circle cx="965" cy="94" r="3.5" fill="#C9A15C" class="spark-1"/>
+  <circle cx="1216" cy="122" r="4" fill="#49675F" class="spark-2"/>
+  <circle cx="1188" cy="332" r="3.5" fill="#B76A57" class="spark-3"/>
+  <circle cx="952" cy="300" r="2.5" fill="#D6C4A2" class="spark-2"/>
 
   <text x="76" y="76" fill="#927044" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="3.2">TECHNICAL FOUNDER / GENERALIST / AI PRODUCT BUILDER</text>
 
@@ -74,4 +271,90 @@
   <text x="104" y="368" fill="#F4ECE0" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="15">NEW YORK</text>
   <text x="262" y="368" fill="#FFF7EA" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="15">RAZROO</text>
   <text x="444" y="368" fill="#5A4E3E" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">SYSTEMS / WRITING</text>
+
+  <ellipse cx="1088" cy="362" rx="132" ry="18" fill="#B69461" fill-opacity="0.12"/>
+  <rect x="942" y="60" width="292" height="304" rx="28" fill="url(#panel)" stroke="#C9B28C" stroke-width="1.5"/>
+  <rect x="958" y="78" width="260" height="270" rx="20" fill="#F9F4EC" stroke="#D8C7A7"/>
+
+  <text x="972" y="97" fill="#715731" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.4">SYSTEM LOOP</text>
+  <circle cx="1189" cy="91" r="5" fill="#4C6A61" class="status-dot"/>
+  <text x="1210" y="97" fill="#715731" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="end">ACTIVE</text>
+
+  <rect x="968" y="104" width="240" height="240" rx="18" fill="url(#screen)"/>
+  <rect x="968" y="104" width="240" height="240" rx="18" fill="url(#screenGlow)" class="screen-glow"/>
+  <rect x="968" y="104" width="240" height="240" rx="18" fill="url(#grid)" opacity="0.92"/>
+
+  <g clip-path="url(#boardClip)">
+    <rect x="968" y="104" width="240" height="64" fill="#12201C" fill-opacity="0.18"/>
+    <rect x="968" y="104" width="240" height="68" fill="#FFF4DE" fill-opacity="0.14" class="scan-band"/>
+
+    <g transform="translate(968 104)">
+      <g class="stack-pre" stroke="#FFF7EA" stroke-opacity="0.08" stroke-width="1">
+        <rect x="1" y="217" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="25" y="217" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="49" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="73" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="97" y="217" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="121" y="217" width="22" height="22" rx="4.5" fill="#B76A57"/>
+
+        <rect x="1" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="25" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="49" y="193" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="121" y="193" width="22" height="22" rx="4.5" fill="#D9C39A"/>
+        <rect x="145" y="193" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="169" y="193" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+
+        <rect x="25" y="169" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="49" y="169" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="73" y="169" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="97" y="169" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+
+        <rect x="73" y="145" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="97" y="145" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+      </g>
+
+      <g class="stack-post" stroke="#FFF7EA" stroke-opacity="0.08" stroke-width="1">
+        <rect x="1" y="217" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="25" y="217" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="49" y="217" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="121" y="217" width="22" height="22" rx="4.5" fill="#D9C39A"/>
+        <rect x="145" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="169" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+
+        <rect x="25" y="193" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="49" y="193" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="73" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="97" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+
+        <rect x="73" y="169" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="97" y="169" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+      </g>
+
+      <g class="ghost-i">
+        <rect x="145.5" y="217.5" width="21" height="21" rx="4.5" fill="none" stroke="#EEE0C9" stroke-opacity="0.45" stroke-dasharray="4 4"/>
+        <rect x="169.5" y="217.5" width="21" height="21" rx="4.5" fill="none" stroke="#EEE0C9" stroke-opacity="0.45" stroke-dasharray="4 4"/>
+        <rect x="193.5" y="217.5" width="21" height="21" rx="4.5" fill="none" stroke="#EEE0C9" stroke-opacity="0.45" stroke-dasharray="4 4"/>
+        <rect x="217.5" y="217.5" width="21" height="21" rx="4.5" fill="none" stroke="#EEE0C9" stroke-opacity="0.45" stroke-dasharray="4 4"/>
+      </g>
+
+      <g class="i-piece" stroke="#FFF7EA" stroke-opacity="0.1" stroke-width="1">
+        <rect x="1" y="1" width="22" height="22" rx="4.5" fill="#D9C39A"/>
+        <rect x="25" y="1" width="22" height="22" rx="4.5" fill="#D9C39A"/>
+        <rect x="49" y="1" width="22" height="22" rx="4.5" fill="#D9C39A"/>
+        <rect x="73" y="1" width="22" height="22" rx="4.5" fill="#D9C39A"/>
+      </g>
+
+      <rect x="0" y="216" width="240" height="24" rx="6" fill="url(#lineClear)" class="line-flash"/>
+
+      <g class="t-piece" stroke="#FFF7EA" stroke-opacity="0.08" stroke-width="1">
+        <rect x="1" y="1" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="25" y="1" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="49" y="1" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="25" y="25" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+      </g>
+    </g>
+  </g>
+
+  <rect x="968" y="104" width="240" height="240" rx="18" stroke="#739085" stroke-opacity="0.24"/>
+  <text x="1088" y="366" fill="#715731" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.2" text-anchor="middle">DROP / CLEAR / LOOP</text>
 </svg>
