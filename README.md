@@ -7,7 +7,14 @@ New York-based technical founder, software architect, and AI product builder.
 
 I build practical systems that turn ambiguity into execution: agentic ticketing, memory-aware assistants, and developer tools that help teams ship faster with less overhead. I founded [Razroo](https://razroo.com) to apply emerging AI where it creates real leverage instead of noise.
 
-Quick links: [Razroo](https://razroo.com) · [Blog](https://blog.razroo.com) · [Medium](https://charliegreenman.medium.com) · [Angular: The Full Gamut](https://github.com/razroo/angular-content)
+Quick links: [Razroo](https://razroo.com) · [Blog](https://blog.razroo.com) · [Medium](https://charliegreenman.medium.com) · [Angular: The Full Gamut](https://github.com/razroo/angular-content) · [Known Unknown](https://knownunknownbook.com) · [Ethos](https://ethosian.info) · [DeadWeight](https://linkedindeadweight.com) · [TurnkeyBook](https://turnkeybook.com)
+
+## Current Properties
+
+- [Known Unknown](https://knownunknownbook.com): a free book exploring what human life looks like after AI changes the frame.
+- [Ethos](https://ethosian.info): a secular framework for living with intention, integrity, and a long view.
+- [DeadWeight](https://linkedindeadweight.com): a LinkedIn network-audit service focused on identifying inactive connections that suppress reach.
+- [TurnkeyBook](https://turnkeybook.com): a done-for-you book writing service for founders, operators, and experts.
 
 ## Selected Outcomes
 
@@ -53,6 +60,8 @@ I work best on products that need strong architecture, fast iteration, and unusu
 - [Angular: The Full Gamut](https://github.com/razroo/angular-content): a long-form Angular book I wrote largely while commuting between Queens and Manhattan.
 - [Razroo Blog](https://blog.razroo.com): technical writing on AI, architecture, and product systems.
 - [Medium](https://charliegreenman.medium.com): essays, thought pieces, and newer writing.
+- [Known Unknown](https://knownunknownbook.com): a book-length exploration of life after AI.
+- [Ethos](https://ethosian.info): a long-form secular philosophy project on how to live well.
 - Gumroad mini-books: [NgRx/store](https://razroo.gumroad.com/l/ngrx-store) and [Angular Unit Testing](https://razroo.gumroad.com/l/angular-unit-testing)
 
 One lesson I learned the hard way: do not break your own article URLs. Canonical links matter.
