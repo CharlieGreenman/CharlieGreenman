@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://committers.top/united_states_private/CharlieGreenman">
+  <a href="https://committers.top/united_states_private#CharlieGreenman">
     <img alt="Top contributor badge" src="https://user-badge.committers.top/united_states_private/CharlieGreenman.svg" />
   </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CharlieGreenman" />
