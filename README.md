@@ -1,24 +1,64 @@
-# Charlie Greenman
+<h1 align="center">Charlie Greenman</h1>
 
-[![committers.top badge](https://user-badge.committers.top/united_states_private/CharlieGreenman.svg)](https://user-badge.committers.top/united_states_private/CharlieGreenman)
-![Profile views](https://komarev.com/ghpvc/?username=CharlieGreenman)
+<p align="center">
+  <a href="https://committers.top/united_states_private/CharlieGreenman">
+    <img alt="committers.top badge" src="https://user-badge.committers.top/united_states_private/CharlieGreenman.svg" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CharlieGreenman" />
+</p>
 
-New York-based technical founder, software architect, and AI product builder.
+<p align="center"><strong>Technical founder, software architect, and AI product builder in New York.</strong></p>
 
-I build practical systems that turn ambiguity into execution: agentic ticketing, memory-aware assistants, and developer tools that help teams ship faster with less overhead. My work spans startups, enterprise teams, and consulting. I founded [Razroo](https://razroo.com) to apply emerging AI where it creates real leverage instead of noise.
+<p align="center">AI systems • product architecture • technical leadership • long-form writing</p>
 
-Quick links:
-- Company and writing: [Razroo](https://razroo.com) · [Blog](https://blog.razroo.com) · [Medium](https://charliegreenman.medium.com) · [LinkedIn](https://www.linkedin.com/in/charliegreenman/)
-- Books: [Angular: The Full Gamut](https://github.com/razroo/angular-content) · [Known Unknown](https://knownunknownbook.com) · [Ethos](https://ethosian.info)
-- Products: [DeadWeight](https://linkedindeadweight.com) · [TurnkeyBook](https://turnkeybook.com)
+<p align="center">
+  I build practical systems that turn ambiguity into execution: agentic ticketing, memory-aware assistants, and developer tools that ship useful work instead of demos.
+  My work spans startups, enterprise teams, and consulting.
+</p>
+
+<p align="center">
+  <a href="https://razroo.com">Razroo</a> •
+  <a href="https://blog.razroo.com">Blog</a> •
+  <a href="https://charliegreenman.medium.com">Medium</a> •
+  <a href="https://www.linkedin.com/in/charliegreenman/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/razroo/angular-content">Angular: The Full Gamut</a> •
+  <a href="https://knownunknownbook.com">Known Unknown</a> •
+  <a href="https://ethosian.info">Ethos</a> •
+  <a href="https://linkedindeadweight.com">DeadWeight</a> •
+  <a href="https://turnkeybook.com">TurnkeyBook</a>
+</p>
+
+| 25 | 100+ | 700 | 200+ |
+| :--: | :--: | :--: | :--: |
+| direct reports | Razroo Slack community | pages in Angular book | technical articles |
 
 ## Selected Outcomes
 
-- Built AI ticketing workflows that can turn a rough request into 30 to 40 actionable Jira issues in seconds.
-- Designed memory-aware assistant patterns that combine retrieval and semantic context to keep work moving across sessions.
-- Managed teams with up to 25 direct reports and supported a 100+ person Razroo Slack community.
-- Built a long-form writing corpus spanning a 700-page Angular book, 200+ technical articles, the 14-chapter [Known Unknown](https://knownunknownbook.com), and the 82-chapter [Ethos](https://ethosian.info).
-- Led small engineering teams across product, platform, and delivery without needing a large-org process stack to get results.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Execution Systems</strong><br />
+      Built AI ticketing workflows that can turn rough requests into 30 to 40 actionable Jira issues in seconds.
+    </td>
+    <td valign="top" width="50%">
+      <strong>Memory-Aware Assistants</strong><br />
+      Designed retrieval and semantic-context patterns that keep work moving across sessions.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Small-Team Leverage</strong><br />
+      Led high-output engineering teams across product, platform, and delivery without a heavy process stack.
+    </td>
+    <td valign="top" width="50%">
+      <strong>Long-Form Output</strong><br />
+      Built a writing corpus spanning a 700-page Angular book, 200+ articles, the 14-chapter Known Unknown, and the 82-chapter Ethos.
+    </td>
+  </tr>
+</table>
 
 ## What I Build
 
@@ -59,18 +99,22 @@ I work best on products that need strong architecture, fast iteration, and unusu
 
 ## Current Books and Products
 
-- [Known Unknown](https://knownunknownbook.com): a free 14-chapter book exploring what happens to human life after AI changes the frame.
-- [Ethos](https://ethosian.info): an 82-chapter secular framework for living with intention, integrity, and a long view.
-- [DeadWeight](https://linkedindeadweight.com): a LinkedIn network-audit service focused on identifying inactive connections that suppress reach.
-- [TurnkeyBook](https://turnkeybook.com): a done-for-you book writing service for founders, operators, and experts.
+| Project | What it is |
+| --- | --- |
+| [Known Unknown](https://knownunknownbook.com) | A free 14-chapter book exploring what happens to human life after AI changes the frame. |
+| [Ethos](https://ethosian.info) | An 82-chapter secular framework for living with intention, integrity, and a long view. |
+| [DeadWeight](https://linkedindeadweight.com) | A LinkedIn network-audit service focused on identifying inactive connections that suppress reach. |
+| [TurnkeyBook](https://turnkeybook.com) | A done-for-you book writing service for founders, operators, and experts. |
 
 ## Selected Open Source
 
-- [codemorph](https://github.com/razroo/codemorph): cross-platform codemod tooling for maintainable code transformations.
-- [html-to-adf](https://github.com/razroo/html-to-adf): HTML to Atlassian Document Format conversion for Jira and Confluence workflows.
-- [tyson](https://github.com/razroo/tyson): TypeScript-style ergonomics for JSON-based DevOps configuration.
-- [reason-oop-patterns](https://github.com/CharlieGreenman/reason-oop-patterns): Gang of Four patterns translated into Reason.
-- [angular-material-virtual-scroll-cdk-table](https://github.com/CharlieGreenman/angular-material-virtual-scroll-cdk-table): virtual scrolling patterns for large Angular Material datasets.
+| Project | Focus |
+| --- | --- |
+| [codemorph](https://github.com/razroo/codemorph) | Cross-platform codemod tooling for maintainable code transformations. |
+| [html-to-adf](https://github.com/razroo/html-to-adf) | HTML to Atlassian Document Format conversion for Jira and Confluence workflows. |
+| [tyson](https://github.com/razroo/tyson) | TypeScript-style ergonomics for JSON-based DevOps configuration. |
+| [reason-oop-patterns](https://github.com/CharlieGreenman/reason-oop-patterns) | Gang of Four patterns translated into Reason. |
+| [angular-material-virtual-scroll-cdk-table](https://github.com/CharlieGreenman/angular-material-virtual-scroll-cdk-table) | Virtual scrolling patterns for large Angular Material datasets. |
 
 <details>
 <summary>Side projects and experiments</summary>
