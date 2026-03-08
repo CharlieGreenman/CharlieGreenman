@@ -64,15 +64,21 @@ I work best on products that need strong architecture, fast iteration, and unusu
 - [DeadWeight](https://linkedindeadweight.com): a LinkedIn network-audit service focused on identifying inactive connections that suppress reach.
 - [TurnkeyBook](https://turnkeybook.com): a done-for-you book writing service for founders, operators, and experts.
 
-## Open Source and Experiments
+## Selected Open Source
 
 - [codemorph](https://github.com/razroo/codemorph): cross-platform codemod tooling for maintainable code transformations.
 - [html-to-adf](https://github.com/razroo/html-to-adf): HTML to Atlassian Document Format conversion for Jira and Confluence workflows.
 - [tyson](https://github.com/razroo/tyson): TypeScript-style ergonomics for JSON-based DevOps configuration.
 - [reason-oop-patterns](https://github.com/CharlieGreenman/reason-oop-patterns): Gang of Four patterns translated into Reason.
 - [angular-material-virtual-scroll-cdk-table](https://github.com/CharlieGreenman/angular-material-virtual-scroll-cdk-table): virtual scrolling patterns for large Angular Material datasets.
+
+<details>
+<summary>Side projects and experiments</summary>
+
 - [codeIllustrator](https://github.com/CharlieGreenman/codeIllustrator): a vanilla JavaScript drawing tool exploring illustration-to-code workflows.
 - [Html5Tetris](https://github.com/CharlieGreenman/Html5Tetris): a browser Tetris build and an 8-bit side quest.
+
+</details>
 
 ## Writing
 
