@@ -7,6 +7,13 @@
 </p>
 
 <p align="center">
+  <a href="https://committers.top/united_states_private/CharlieGreenman">
+    <img alt="Top contributor badge" src="https://user-badge.committers.top/united_states_private/CharlieGreenman.svg" />
+  </a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CharlieGreenman" />
+</p>
+
+<p align="center">
   <img alt="25 direct reports" src="https://img.shields.io/badge/direct_reports-25-B58746?style=flat-square&amp;labelColor=1D1B18" />
   <img alt="100 plus community members" src="https://img.shields.io/badge/slack_community-100%2B-4C6A61?style=flat-square&amp;labelColor=1D1B18" />
   <img alt="700 pages written" src="https://img.shields.io/badge/angular_book-700_pages-B58746?style=flat-square&amp;labelColor=1D1B18" />
