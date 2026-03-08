@@ -5,66 +5,30 @@
 
 New York-based technical founder, software architect, and AI product builder.
 
-I build practical systems that turn ambiguity into execution: agentic ticketing, memory-aware assistants, and developer tools that help teams ship faster with less overhead. I founded [Razroo](https://razroo.com) to apply emerging AI where it creates real leverage instead of noise.
+I build practical systems that turn ambiguity into execution: agentic ticketing, memory-aware assistants, and developer tools that help teams ship faster with less overhead. My work spans startups, enterprise teams, and consulting. I founded [Razroo](https://razroo.com) to apply emerging AI where it creates real leverage instead of noise.
 
-Quick links: [Razroo](https://razroo.com) · [Blog](https://blog.razroo.com) · [Medium](https://charliegreenman.medium.com) · [Angular: The Full Gamut](https://github.com/razroo/angular-content) · [Known Unknown](https://knownunknownbook.com) · [Ethos](https://ethosian.info) · [DeadWeight](https://linkedindeadweight.com) · [TurnkeyBook](https://turnkeybook.com)
-
-## Current Properties
-
-- [Known Unknown](https://knownunknownbook.com): a free book exploring what human life looks like after AI changes the frame.
-- [Ethos](https://ethosian.info): a secular framework for living with intention, integrity, and a long view.
-- [DeadWeight](https://linkedindeadweight.com): a LinkedIn network-audit service focused on identifying inactive connections that suppress reach.
-- [TurnkeyBook](https://turnkeybook.com): a done-for-you book writing service for founders, operators, and experts.
+Quick links:
+- Company and writing: [Razroo](https://razroo.com) · [Blog](https://blog.razroo.com) · [Medium](https://charliegreenman.medium.com) · [LinkedIn](https://www.linkedin.com/in/charliegreenman/)
+- Books: [Angular: The Full Gamut](https://github.com/razroo/angular-content) · [Known Unknown](https://knownunknownbook.com) · [Ethos](https://ethosian.info)
+- Products: [DeadWeight](https://linkedindeadweight.com) · [TurnkeyBook](https://turnkeybook.com)
 
 ## Selected Outcomes
 
 - Built AI ticketing workflows that can turn a rough request into 30 to 40 actionable Jira issues in seconds.
 - Designed memory-aware assistant patterns that combine retrieval and semantic context to keep work moving across sessions.
-- Led small engineering teams across product, platform, and delivery without needing a large-org process stack to get results.
-
-## Current Focus
-
-- Designing AI-first products that produce useful work, not demos.
-- Building lean, high-output engineering teams across product, platform, and delivery.
-- Building systems that span frontend, backend, DevOps, and generative AI.
-
-## At a Glance
-
-- Founder of [Razroo](https://razroo.com), building AI-powered product and engineering systems.
-- Experience across startups, enterprise teams, and consulting engagements.
 - Managed teams with up to 25 direct reports and supported a 100+ person Razroo Slack community.
-- Wrote a 700-page Angular book and published 200+ technical articles.
+- Built a long-form writing corpus spanning a 700-page Angular book, 200+ technical articles, the 14-chapter [Known Unknown](https://knownunknownbook.com), and the 82-chapter [Ethos](https://ethosian.info).
+- Led small engineering teams across product, platform, and delivery without needing a large-org process stack to get results.
 
 ## What I Build
 
 I work best on products that need strong architecture, fast iteration, and unusually high technical range. In practice, that usually means:
 
-- AI product architecture and workflow automation
+- AI product architecture and workflow automation that produce useful work, not demos
 - TypeScript, JavaScript, and Python systems
 - React, Angular, Node.js, and GraphQL applications
 - AWS, serverless infrastructure, and data-heavy backends
 - Developer experience, platform tooling, and internal products
-
-## Selected Projects
-
-- [codemorph](https://github.com/razroo/codemorph): cross-platform codemod tooling for maintainable code transformations.
-- [html-to-adf](https://github.com/razroo/html-to-adf): HTML to Atlassian Document Format conversion for Jira and Confluence workflows.
-- [tyson](https://github.com/razroo/tyson): TypeScript-style ergonomics for JSON-based DevOps configuration.
-- [reason-oop-patterns](https://github.com/CharlieGreenman/reason-oop-patterns): Gang of Four patterns translated into Reason.
-- [angular-material-virtual-scroll-cdk-table](https://github.com/CharlieGreenman/angular-material-virtual-scroll-cdk-table): virtual scrolling patterns for large Angular Material datasets.
-- [codeIllustrator](https://github.com/CharlieGreenman/codeIllustrator): a vanilla JavaScript drawing tool exploring illustration-to-code workflows.
-- [Html5Tetris](https://github.com/CharlieGreenman/Html5Tetris): a browser Tetris build and an 8-bit side quest.
-
-## Writing
-
-- [Angular: The Full Gamut](https://github.com/razroo/angular-content): a long-form Angular book I wrote largely while commuting between Queens and Manhattan.
-- [Razroo Blog](https://blog.razroo.com): technical writing on AI, architecture, and product systems.
-- [Medium](https://charliegreenman.medium.com): essays, thought pieces, and newer writing.
-- [Known Unknown](https://knownunknownbook.com): a book-length exploration of life after AI.
-- [Ethos](https://ethosian.info): a long-form secular philosophy project on how to live well.
-- Gumroad mini-books: [NgRx/store](https://razroo.gumroad.com/l/ngrx-store) and [Angular Unit Testing](https://razroo.gumroad.com/l/angular-unit-testing)
-
-One lesson I learned the hard way: do not break your own article URLs. Canonical links matter.
 
 ## Experience Snapshot
 
@@ -93,6 +57,32 @@ One lesson I learned the hard way: do not break your own article URLs. Canonical
 
 </details>
 
+## Current Books and Products
+
+- [Known Unknown](https://knownunknownbook.com): a free 14-chapter book exploring what happens to human life after AI changes the frame.
+- [Ethos](https://ethosian.info): an 82-chapter secular framework for living with intention, integrity, and a long view.
+- [DeadWeight](https://linkedindeadweight.com): a LinkedIn network-audit service focused on identifying inactive connections that suppress reach.
+- [TurnkeyBook](https://turnkeybook.com): a done-for-you book writing service for founders, operators, and experts.
+
+## Open Source and Experiments
+
+- [codemorph](https://github.com/razroo/codemorph): cross-platform codemod tooling for maintainable code transformations.
+- [html-to-adf](https://github.com/razroo/html-to-adf): HTML to Atlassian Document Format conversion for Jira and Confluence workflows.
+- [tyson](https://github.com/razroo/tyson): TypeScript-style ergonomics for JSON-based DevOps configuration.
+- [reason-oop-patterns](https://github.com/CharlieGreenman/reason-oop-patterns): Gang of Four patterns translated into Reason.
+- [angular-material-virtual-scroll-cdk-table](https://github.com/CharlieGreenman/angular-material-virtual-scroll-cdk-table): virtual scrolling patterns for large Angular Material datasets.
+- [codeIllustrator](https://github.com/CharlieGreenman/codeIllustrator): a vanilla JavaScript drawing tool exploring illustration-to-code workflows.
+- [Html5Tetris](https://github.com/CharlieGreenman/Html5Tetris): a browser Tetris build and an 8-bit side quest.
+
+## Writing
+
+- [Angular: The Full Gamut](https://github.com/razroo/angular-content): a long-form Angular book I wrote largely while commuting between Queens and Manhattan.
+- [Razroo Blog](https://blog.razroo.com): technical writing on AI, architecture, and product systems.
+- [Medium](https://charliegreenman.medium.com): essays, thought pieces, and newer writing.
+- Gumroad mini-books: [NgRx/store](https://razroo.gumroad.com/l/ngrx-store) and [Angular Unit Testing](https://razroo.gumroad.com/l/angular-unit-testing)
+
+One lesson I learned the hard way: do not break your own article URLs. Canonical links matter.
+
 ## How I Work
 
 - I prefer small teams with high trust and high standards.
@@ -101,7 +91,7 @@ One lesson I learned the hard way: do not break your own article URLs. Canonical
 
 ## Working Together
 
-If you're building an AI-first product, modernizing a platform, or need fractional technical leadership that can move from strategy to implementation, those are usually the problems I care most about. The best path in is through GitHub or [Razroo](https://razroo.com).
+If you're building an AI-first product, modernizing a platform, or need fractional technical leadership that can move from strategy to implementation, those are usually the problems I care most about. The cleanest path in is [LinkedIn](https://www.linkedin.com/in/charliegreenman/) for direct outreach or [Razroo](https://razroo.com) for company work.
 
 <details>
 <summary>Background and personal notes</summary>
@@ -160,4 +150,4 @@ Greenman House ethos: [Project Creed / ethos](https://github.com/Project-Creed/e
 
 Latin for "the green man lives," and a small piece of personal symbolism and visual worldbuilding.
 
-[![Vir Viridis Vivit](https://github.com/user-attachments/assets/e263eba0-79de-4435-995a-7c0efd5337cb)](https://chatgpt.com/share/683e0464-0b18-8002-bf16-8292e0bd2a6d)
+![Vir Viridis Vivit](https://github.com/user-attachments/assets/e263eba0-79de-4435-995a-7c0efd5337cb)
