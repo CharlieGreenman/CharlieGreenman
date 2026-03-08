@@ -1,39 +1,28 @@
-<h1 align="center">Charlie Greenman</h1>
-
 <p align="center">
-  <a href="https://committers.top/united_states_private/CharlieGreenman">
-    <img alt="committers.top badge" src="https://user-badge.committers.top/united_states_private/CharlieGreenman.svg" />
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CharlieGreenman" />
+  <img src="./assets/profile-hero.svg" alt="Charlie Greenman profile hero" width="100%" />
 </p>
 
-<p align="center"><strong>Technical founder, software architect, and AI product builder in New York.</strong></p>
-
-<p align="center">AI systems • product architecture • technical leadership • long-form writing</p>
+<p align="center">
+  Founder of <a href="https://razroo.com">Razroo</a>. I build agentic systems, product architecture, and long-form work about where AI is taking us.
+</p>
 
 <p align="center">
-  I build practical systems that turn ambiguity into execution: agentic ticketing, memory-aware assistants, and developer tools that ship useful work instead of demos.
-  My work spans startups, enterprise teams, and consulting.
+  <img alt="25 direct reports" src="https://img.shields.io/badge/direct_reports-25-B58746?style=flat-square&amp;labelColor=1D1B18" />
+  <img alt="100 plus community members" src="https://img.shields.io/badge/slack_community-100%2B-4C6A61?style=flat-square&amp;labelColor=1D1B18" />
+  <img alt="700 pages written" src="https://img.shields.io/badge/angular_book-700_pages-B58746?style=flat-square&amp;labelColor=1D1B18" />
+  <img alt="200 plus technical articles" src="https://img.shields.io/badge/articles-200%2B-4C6A61?style=flat-square&amp;labelColor=1D1B18" />
 </p>
 
 <p align="center">
   <a href="https://razroo.com">Razroo</a> •
   <a href="https://blog.razroo.com">Blog</a> •
   <a href="https://charliegreenman.medium.com">Medium</a> •
-  <a href="https://www.linkedin.com/in/charliegreenman/">LinkedIn</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/razroo/angular-content">Angular: The Full Gamut</a> •
+  <a href="https://www.linkedin.com/in/charliegreenman/">LinkedIn</a> •
   <a href="https://knownunknownbook.com">Known Unknown</a> •
   <a href="https://ethosian.info">Ethos</a> •
   <a href="https://linkedindeadweight.com">DeadWeight</a> •
   <a href="https://turnkeybook.com">TurnkeyBook</a>
 </p>
-
-| 25 | 100+ | 700 | 200+ |
-| :--: | :--: | :--: | :--: |
-| direct reports | Razroo Slack community | pages in Angular book | technical articles |
 
 ## Selected Outcomes
 
