@@ -1,16 +1,16 @@
 <svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Charlie Greenman profile hero</title>
-  <desc id="desc">A warm ivory banner with geometric architecture motifs, the name Charlie Greenman, and a summary of technical founder, software architect, and AI product builder.</desc>
+  <desc id="desc">A warm ivory banner with geometric architecture motifs, the name Charlie Greenman, and a summary of technical founder, generalist, and AI product builder.</desc>
   <defs>
     <linearGradient id="bg" x1="60" y1="40" x2="1220" y2="380" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FAF5ED"/>
       <stop offset="1" stop-color="#F1E8D9"/>
     </linearGradient>
-    <linearGradient id="lineFade" x1="760" y1="50" x2="1180" y2="370" gradientUnits="userSpaceOnUse">
+    <linearGradient id="lineFade" x1="820" y1="50" x2="1240" y2="370" gradientUnits="userSpaceOnUse">
       <stop stop-color="#D5C3A2"/>
       <stop offset="1" stop-color="#E8DDC7" stop-opacity="0"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1024 210) rotate(90) scale(170 170)">
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1084 210) rotate(90) scale(170 170)">
       <stop stop-color="#C7A36A" stop-opacity="0.22"/>
       <stop offset="1" stop-color="#C7A36A" stop-opacity="0"/>
     </radialGradient>
@@ -19,47 +19,47 @@
   <rect x="8" y="8" width="1264" height="404" rx="28" fill="url(#bg)"/>
   <rect x="20" y="20" width="1240" height="380" rx="20" stroke="#D1BE99" stroke-width="2"/>
 
-  <circle cx="1032" cy="210" r="170" fill="url(#glow)"/>
-  <circle cx="1032" cy="210" r="146" stroke="#D1BE99" stroke-width="1.5"/>
-  <circle cx="1032" cy="210" r="110" stroke="#D8C7A7" stroke-width="1"/>
-  <circle cx="1032" cy="210" r="72" stroke="#DFD3BC" stroke-width="1"/>
-  <path d="M886 210H1178" stroke="url(#lineFade)" stroke-width="1"/>
-  <path d="M1032 64V356" stroke="url(#lineFade)" stroke-width="1"/>
+  <circle cx="1084" cy="210" r="170" fill="url(#glow)"/>
+  <circle cx="1084" cy="210" r="146" stroke="#D1BE99" stroke-width="1.5"/>
+  <circle cx="1084" cy="210" r="110" stroke="#D8C7A7" stroke-width="1"/>
+  <circle cx="1084" cy="210" r="72" stroke="#DFD3BC" stroke-width="1"/>
+  <path d="M938 210H1230" stroke="url(#lineFade)" stroke-width="1"/>
+  <path d="M1084 64V356" stroke="url(#lineFade)" stroke-width="1"/>
 
-  <path d="M852 82H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M852 118H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M852 154H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M852 190H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M852 226H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M852 262H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M852 298H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M852 334H1212" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M884 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M920 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M956 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M992 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1028 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1064 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1100 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1136 50V370" stroke="#E2D6BF" stroke-width="1"/>
-  <path d="M1172 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 82H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 118H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 154H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 190H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 226H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 262H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 298H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M904 334H1260" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M936 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M972 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1008 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1044 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1080 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1116 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1152 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1188 50V370" stroke="#E2D6BF" stroke-width="1"/>
+  <path d="M1224 50V370" stroke="#E2D6BF" stroke-width="1"/>
 
-  <rect x="908" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
-  <rect x="940" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
-  <rect x="972" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
-  <rect x="972" y="216" width="30" height="30" rx="5" fill="#2D4A42"/>
+  <rect x="968" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
+  <rect x="1000" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
+  <rect x="1032" y="248" width="30" height="30" rx="5" fill="#2D4A42"/>
+  <rect x="1032" y="216" width="30" height="30" rx="5" fill="#2D4A42"/>
 
-  <rect x="1044" y="280" width="30" height="30" rx="5" fill="#B58746"/>
-  <rect x="1076" y="280" width="30" height="30" rx="5" fill="#B58746"/>
-  <rect x="1108" y="280" width="30" height="30" rx="5" fill="#B58746"/>
-  <rect x="1140" y="280" width="30" height="30" rx="5" fill="#B58746"/>
+  <rect x="1100" y="280" width="30" height="30" rx="5" fill="#B58746"/>
+  <rect x="1132" y="280" width="30" height="30" rx="5" fill="#B58746"/>
+  <rect x="1164" y="280" width="30" height="30" rx="5" fill="#B58746"/>
+  <rect x="1196" y="280" width="30" height="30" rx="5" fill="#B58746"/>
 
-  <rect x="1094" y="138" width="30" height="30" rx="5" fill="#4C6A61"/>
-  <rect x="1126" y="138" width="30" height="30" rx="5" fill="#4C6A61"/>
-  <rect x="1094" y="170" width="30" height="30" rx="5" fill="#4C6A61"/>
-  <rect x="1126" y="170" width="30" height="30" rx="5" fill="#4C6A61"/>
+  <rect x="1160" y="138" width="30" height="30" rx="5" fill="#4C6A61"/>
+  <rect x="1192" y="138" width="30" height="30" rx="5" fill="#4C6A61"/>
+  <rect x="1160" y="170" width="30" height="30" rx="5" fill="#4C6A61"/>
+  <rect x="1192" y="170" width="30" height="30" rx="5" fill="#4C6A61"/>
 
-  <text x="76" y="76" fill="#927044" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="3.2">TECHNICAL FOUNDER / SOFTWARE ARCHITECT / AI PRODUCT BUILDER</text>
+  <text x="76" y="76" fill="#927044" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="3.2">TECHNICAL FOUNDER / GENERALIST / AI PRODUCT BUILDER</text>
 
   <text x="72" y="166" fill="#1D1B18" font-family="'Palatino Linotype', 'Book Antiqua', Georgia, serif" font-size="72" font-weight="700" letter-spacing="0.5">Charlie</text>
   <text x="72" y="236" fill="#1D1B18" font-family="'Palatino Linotype', 'Book Antiqua', Georgia, serif" font-size="72" font-weight="700" letter-spacing="0.5">Greenman</text>
@@ -69,9 +69,9 @@
 
   <rect x="74" y="346" width="146" height="34" rx="17" fill="#1F312D"/>
   <rect x="230" y="346" width="178" height="34" rx="17" fill="#AF8241"/>
-  <rect x="418" y="346" width="178" height="34" rx="17" fill="#D8CAB1"/>
+  <rect x="418" y="346" width="236" height="34" rx="17" fill="#D8CAB1"/>
 
   <text x="104" y="368" fill="#F4ECE0" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="15">NEW YORK</text>
   <text x="262" y="368" fill="#FFF7EA" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="15">RAZROO</text>
-  <text x="444" y="368" fill="#5A4E3E" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="15">SYSTEMS / WRITING</text>
+  <text x="444" y="368" fill="#5A4E3E" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">SYSTEMS / WRITING</text>
 </svg>
