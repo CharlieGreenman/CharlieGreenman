@@ -80,7 +80,7 @@
     }
 
     .t-piece {
-      animation: tRise 8s infinite, tFade 8s infinite step-end;
+      animation: tDrop 8s infinite, tFade 8s infinite step-end;
     }
 
     .spark-1 {
@@ -136,10 +136,15 @@
 
     @keyframes iDrop {
       0%, 8% { transform: translate(144px, 0px); }
-      18%, 28% { transform: translate(144px, 48px); }
-      38%, 48% { transform: translate(144px, 96px); }
-      58%, 66% { transform: translate(144px, 144px); }
-      70%, 74.9% { transform: translate(144px, 216px); }
+      16%, 24% { transform: translate(144px, 24px); }
+      32%, 40% { transform: translate(144px, 48px); }
+      48%, 56% { transform: translate(144px, 72px); }
+      60%, 64% { transform: translate(144px, 96px); }
+      65%, 68% { transform: translate(144px, 120px); }
+      69%, 71% { transform: translate(144px, 144px); }
+      72%, 73% { transform: translate(144px, 168px); }
+      73.2%, 74.1% { transform: translate(144px, 192px); }
+      74.3%, 74.9% { transform: translate(144px, 216px); }
       75%, 100% { transform: translate(144px, 216px); }
     }
 
@@ -161,11 +166,18 @@
       75.1%, 100% { opacity: 1; }
     }
 
-    @keyframes tRise {
-      0%, 75% { transform: translate(144px, -72px); }
-      84% { transform: translate(144px, 0px); }
-      92% { transform: translate(144px, 36px); }
-      100% { transform: translate(144px, 72px); }
+    @keyframes tDrop {
+      0%, 75% { transform: translate(120px, -72px); }
+      80% { transform: translate(120px, -48px); }
+      84% { transform: translate(120px, -24px); }
+      88% { transform: translate(120px, 0px); }
+      91% { transform: translate(120px, 24px); }
+      94% { transform: translate(120px, 48px); }
+      96% { transform: translate(120px, 72px); }
+      97.5% { transform: translate(120px, 96px); }
+      98.5% { transform: translate(120px, 120px); }
+      99.2% { transform: translate(120px, 144px); }
+      100% { transform: translate(120px, 168px); }
     }
 
     @keyframes sparkleOne {
@@ -215,7 +227,7 @@
       }
 
       .t-piece {
-        transform: translate(144px, 72px);
+        transform: translate(120px, 168px);
       }
     }
   </style>
@@ -277,8 +289,8 @@
   <rect x="958" y="78" width="260" height="270" rx="20" fill="#F9F4EC" stroke="#D8C7A7"/>
 
   <text x="972" y="97" fill="#715731" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.4">SYSTEM LOOP</text>
-  <circle cx="1189" cy="91" r="5" fill="#4C6A61" class="status-dot"/>
-  <text x="1210" y="97" fill="#715731" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="end">ACTIVE</text>
+  <circle cx="1162" cy="91" r="5" fill="#4C6A61" class="status-dot"/>
+  <text x="1212" y="97" fill="#715731" font-family="Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11" text-anchor="end">ACTIVE</text>
 
   <rect x="968" y="104" width="240" height="240" rx="18" fill="url(#screen)"/>
   <rect x="968" y="104" width="240" height="240" rx="18" fill="url(#screenGlow)" class="screen-glow"/>
