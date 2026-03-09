@@ -167,17 +167,15 @@
     }
 
     @keyframes tDrop {
-      0%, 75% { transform: translate(120px, -72px); }
-      80% { transform: translate(120px, -48px); }
-      84% { transform: translate(120px, -24px); }
-      88% { transform: translate(120px, 0px); }
-      91% { transform: translate(120px, 24px); }
-      94% { transform: translate(120px, 48px); }
-      96% { transform: translate(120px, 72px); }
-      97.5% { transform: translate(120px, 96px); }
-      98.5% { transform: translate(120px, 120px); }
-      99.2% { transform: translate(120px, 144px); }
-      100% { transform: translate(120px, 168px); }
+      0%, 75% { transform: translate(48px, -72px); }
+      81% { transform: translate(48px, -48px); }
+      85% { transform: translate(48px, -24px); }
+      89% { transform: translate(48px, 0px); }
+      92% { transform: translate(48px, 24px); }
+      95% { transform: translate(48px, 48px); }
+      97% { transform: translate(48px, 72px); }
+      98.5% { transform: translate(48px, 96px); }
+      100% { transform: translate(48px, 120px); }
     }
 
     @keyframes sparkleOne {
@@ -227,7 +225,7 @@
       }
 
       .t-piece {
-        transform: translate(120px, 168px);
+        transform: translate(48px, 120px);
       }
     }
   </style>
@@ -302,44 +300,38 @@
 
     <g transform="translate(968 104)">
       <g class="stack-pre" stroke="#FFF7EA" stroke-opacity="0.08" stroke-width="1">
-        <rect x="1" y="217" width="22" height="22" rx="4.5" fill="#B58746"/>
-        <rect x="25" y="217" width="22" height="22" rx="4.5" fill="#B58746"/>
-        <rect x="49" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
-        <rect x="73" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
-        <rect x="97" y="217" width="22" height="22" rx="4.5" fill="#B76A57"/>
-        <rect x="121" y="217" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="1" y="217" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="25" y="217" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="49" y="217" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="73" y="217" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="97" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="121" y="217" width="22" height="22" rx="4.5" fill="#D9C39A"/>
 
-        <rect x="1" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
-        <rect x="25" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="1" y="193" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="25" y="193" width="22" height="22" rx="4.5" fill="#B76A57"/>
         <rect x="49" y="193" width="22" height="22" rx="4.5" fill="#B58746"/>
-        <rect x="121" y="193" width="22" height="22" rx="4.5" fill="#D9C39A"/>
-        <rect x="145" y="193" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
-        <rect x="169" y="193" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="73" y="193" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
 
-        <rect x="25" y="169" width="22" height="22" rx="4.5" fill="#B76A57"/>
-        <rect x="49" y="169" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="25" y="169" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="49" y="169" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
         <rect x="73" y="169" width="22" height="22" rx="4.5" fill="#4D6E65"/>
-        <rect x="97" y="169" width="22" height="22" rx="4.5" fill="#4D6E65"/>
 
-        <rect x="73" y="145" width="22" height="22" rx="4.5" fill="#B58746"/>
-        <rect x="97" y="145" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="49" y="145" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="73" y="145" width="22" height="22" rx="4.5" fill="#4D6E65"/>
       </g>
 
       <g class="stack-post" stroke="#FFF7EA" stroke-opacity="0.08" stroke-width="1">
-        <rect x="1" y="217" width="22" height="22" rx="4.5" fill="#4D6E65"/>
-        <rect x="25" y="217" width="22" height="22" rx="4.5" fill="#4D6E65"/>
+        <rect x="1" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="25" y="217" width="22" height="22" rx="4.5" fill="#B76A57"/>
         <rect x="49" y="217" width="22" height="22" rx="4.5" fill="#B58746"/>
-        <rect x="121" y="217" width="22" height="22" rx="4.5" fill="#D9C39A"/>
-        <rect x="145" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
-        <rect x="169" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="73" y="217" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
 
-        <rect x="25" y="193" width="22" height="22" rx="4.5" fill="#B76A57"/>
-        <rect x="49" y="193" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="25" y="193" width="22" height="22" rx="4.5" fill="#B58746"/>
+        <rect x="49" y="193" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
         <rect x="73" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
-        <rect x="97" y="193" width="22" height="22" rx="4.5" fill="#4D6E65"/>
 
-        <rect x="73" y="169" width="22" height="22" rx="4.5" fill="#B58746"/>
-        <rect x="97" y="169" width="22" height="22" rx="4.5" fill="#6E8B7E"/>
+        <rect x="49" y="169" width="22" height="22" rx="4.5" fill="#B76A57"/>
+        <rect x="73" y="169" width="22" height="22" rx="4.5" fill="#4D6E65"/>
       </g>
 
       <g class="ghost-i">
