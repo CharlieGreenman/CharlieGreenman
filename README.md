@@ -27,6 +27,7 @@
   <a href="https://www.linkedin.com/in/charliegreenman/">LinkedIn</a> •
   <a href="https://knownunknownbook.com">Known Unknown</a> •
   <a href="https://ethosian.info">Ethos</a> •
+  <a href="https://agentsifted.com">AgentSifted</a> •
   <a href="https://linkedindeadweight.com">DeadWeight</a> •
   <a href="https://turnkeybook.com">TurnkeyBook</a>
 </p>
