@@ -31,7 +31,10 @@
   <a href="https://linkedindeadweight.com">DeadWeight</a> •
   <a href="https://turnkeybook.com">TurnkeyBook</a> •
   <a href="https://getturnkeylead.com">TurnkeyLead</a> •
-  <a href="https://getturnkeycourse.com">TurnkeyCourse</a>
+  <a href="https://getturnkeycourse.com">TurnkeyCourse</a> •
+  <a href="https://makebind.com">MakeBind</a> •
+  <a href="https://code.razroo.com">Code</a> •
+  <a href="https://projects.razroo.com">Projects</a>
 </p>
 
 ## Selected Outcomes
