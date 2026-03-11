@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Founder of <a href="https://razroo.com">Razroo</a>. I build agentic systems, product architecture, and long-form work about where AI is taking us.
+  I build agentic systems, product architecture, and long-form work about where AI is taking us.
 </p>
 
 <p align="center">
