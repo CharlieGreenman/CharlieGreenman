@@ -28,6 +28,7 @@
   <a href="https://knownunknownbook.com">Known Unknown</a> •
   <a href="https://ethosian.info">Ethos</a> •
   <a href="https://agentsifted.com">AgentSifted</a> •
+  <a href="https://gridmillion.com">Million Agent Grid</a> •
   <a href="https://linkedindeadweight.com">DeadWeight</a> •
   <a href="https://turnkeybook.com">TurnkeyBook</a> •
   <a href="https://getturnkeylead.com">TurnkeyLead</a> •
@@ -105,6 +106,7 @@ I work best on products that need strong architecture, fast iteration, and unusu
 | --- | --- |
 | [Known Unknown](https://knownunknownbook.com) | A free 14-chapter book exploring what happens to human life after AI changes the frame. |
 | [Ethos](https://ethosian.info) | An 82-chapter secular framework for living with intention, integrity, and a long view. |
+| [Million Agent Grid](https://gridmillion.com) | A 1,000 x 1,000 visual grid where anyone can claim a permanent spot in the first public directory of the AI economy. |
 | [DeadWeight](https://linkedindeadweight.com) | A LinkedIn network-audit service focused on identifying inactive connections that suppress reach. |
 | [TurnkeyBook](https://turnkeybook.com) | A done-for-you book writing service for founders, operators, and experts. |
 | [TurnkeyLead](https://getturnkeylead.com) | A turnkey lead generation service. |
