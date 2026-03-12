@@ -35,7 +35,8 @@
   <a href="https://getturnkeycourse.com">TurnkeyCourse</a> •
   <a href="https://makebind.com">MakeBind</a> •
   <a href="https://code.razroo.com">Code</a> •
-  <a href="https://projects.razroo.com">Projects</a>
+  <a href="https://projects.razroo.com">Projects</a> •
+  <a href="https://conseqai.com/">ConseqAI</a>
 </p>
 
 ## Selected Outcomes
