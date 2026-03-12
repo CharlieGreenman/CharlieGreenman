@@ -14,11 +14,31 @@
 </p>
 
 <p align="center">
-  <img alt="25 direct reports" src="https://img.shields.io/badge/direct_reports-25-B58746?style=flat-square&amp;labelColor=1D1B18" />
-  <img alt="100 plus community members" src="https://img.shields.io/badge/slack_community-100%2B-4C6A61?style=flat-square&amp;labelColor=1D1B18" />
-  <img alt="700 pages written" src="https://img.shields.io/badge/angular_book-700_pages-B58746?style=flat-square&amp;labelColor=1D1B18" />
-  <img alt="200 plus technical articles" src="https://img.shields.io/badge/articles-200%2B-4C6A61?style=flat-square&amp;labelColor=1D1B18" />
+  Leadership, audience, and long-form proof for teams hiring technical leaders, founders looking for leverage, and investors evaluating operator depth.
 </p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>25 Direct Reports</strong><br />
+      Managed engineers directly with enough span to drive delivery, raise standards, and keep execution close to the work.
+    </td>
+    <td valign="top" width="50%">
+      <strong>100+ Community Members</strong><br />
+      Built a technical community large enough to create durable trust, feedback loops, and repeat visibility beyond one company.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>700 Pages Written</strong><br />
+      Produced book-length technical work that turns architecture, systems, and strategy into language teams can actually use.
+    </td>
+    <td valign="top" width="50%">
+      <strong>200+ Technical Articles</strong><br />
+      Built public proof of technical depth through sustained writing on AI, architecture, Angular, product systems, and execution.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://razroo.com">Razroo</a> •
