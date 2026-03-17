@@ -58,6 +58,7 @@
   <a href="https://projects.razroo.com">Projects</a> •
   <a href="https://conseqai.com/">ConseqAI</a> •
   <a href="https://getcoldagent.com/">ColdAgent</a> •
+  <a href="https://playrotris.com">Playrotris</a> •
   <a href="https://gitfollow.com">GitFollow</a>
 </p>
 
