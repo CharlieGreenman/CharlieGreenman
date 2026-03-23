@@ -59,6 +59,7 @@
   <a href="https://conseqai.com/">ConseqAI</a> •
   <a href="https://getcoldagent.com/">ColdAgent</a> •
   <a href="https://playrotris.com">Playrotris</a> •
+  <a href="https://rotateshapes.com/">Rotate Shapes</a> •
   <a href="https://gitfollow.com">GitFollow</a>
 </p>
 
@@ -131,6 +132,7 @@ I work best on products that need strong architecture, fast iteration, and unusu
 | [Known Unknown](https://knownunknownbook.com) | A free 14-chapter book exploring what happens to human life after AI changes the frame. |
 | [Ethos](https://ethosian.info) | An 82-chapter secular framework for living with intention, integrity, and a long view. |
 | [Million Agent Grid](https://gridmillion.com) | A 1,000 x 1,000 visual grid where anyone can claim a permanent spot in the first public directory of the AI economy. |
+| [Rotate Shapes](https://rotateshapes.com/) | A mental rotation training game built around fast 3-D shape matching and spatial reasoning practice. |
 | [DeadWeight](https://linkedindeadweight.com) | A LinkedIn network-audit service focused on identifying inactive connections that suppress reach. |
 | [TurnkeyBook](https://turnkeybook.com) | A done-for-you book writing service for founders, operators, and experts. |
 | [TurnkeyLead](https://getturnkeylead.com) | A turnkey lead generation service. |
