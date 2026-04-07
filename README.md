@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://committers.top/united_states_private#CharlieGreenman"><img alt="Top contributor badge" src="https://user-badge.committers.top/united_states_private/CharlieGreenman.svg" /></a><img alt="Made in USA" src="https://img.shields.io/badge/Made%20in-USA-B22234?style=flat&labelColor=3C3B6E&color=B22234&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMiI%2BPHJlY3QgZmlsbD0iI0IyMjIzNCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMyIi8%2BPHBhdGggc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjMuMiIgZD0iTTAgNi40aDYwTTAgMTIuOGg2ME0wIDE5LjJoNjBNMCAyNS42aDYwIi8%2BPHJlY3QgZmlsbD0iIzNDM0I2RSIgd2lkdGg9IjI4IiBoZWlnaHQ9IjE3LjYiLz48L3N2Zz4%3D&logoWidth=36" /><img alt="Profile views" src="https://komarev.com/ghpvc/?username=CharlieGreenman" />
+  <a href="https://committers.top/united_states_private#CharlieGreenman"><img alt="Top contributor badge" src="https://user-badge.committers.top/united_states_private/CharlieGreenman.svg" /></a><img src="./assets/badge-spacer.svg" width="8" height="20" alt="" /><img alt="Made in USA" src="https://img.shields.io/badge/Made%20in-USA-B22234?style=flat&labelColor=3C3B6E&color=B22234&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MCAzMiI%2BPHJlY3QgZmlsbD0iI0IyMjIzNCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMyIi8%2BPHBhdGggc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjMuMiIgZD0iTTAgNi40aDYwTTAgMTIuOGg2ME0wIDE5LjJoNjBNMCAyNS42aDYwIi8%2BPHJlY3QgZmlsbD0iIzNDM0I2RSIgd2lkdGg9IjI4IiBoZWlnaHQ9IjE3LjYiLz48L3N2Zz4%3D&logoWidth=36" /><img src="./assets/badge-spacer.svg" width="8" height="20" alt="" /><img alt="Profile views" src="https://komarev.com/ghpvc/?username=CharlieGreenman" />
 </p>
 
 <p align="center">
