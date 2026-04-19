@@ -89,13 +89,33 @@
 
 ## What I Build
 
-I work best on products that need strong architecture, fast iteration, and unusually high technical range. In practice, that usually means:
+I work best on products that need strong architecture, fast iteration, and unusually high technical range.
 
-- AI product architecture and workflow automation that produce useful work, not demos
-- TypeScript, JavaScript, and Python systems
-- React, Angular, Node.js, and GraphQL applications
-- AWS, serverless infrastructure, and data-heavy backends
-- Developer experience, platform tooling, and internal products
+```mermaid
+mindmap
+  root((What I Build))
+    AI Systems
+      Product architecture
+      Workflow automation
+      Agentic systems
+    Languages
+      TypeScript
+      JavaScript
+      Python
+    Frameworks
+      React
+      Angular
+      Node.js
+      GraphQL
+    Infrastructure
+      AWS
+      Serverless
+      Data-heavy backends
+    Platform
+      Developer experience
+      Internal tooling
+      Product systems
+```
 
 ## Experience Snapshot
 
