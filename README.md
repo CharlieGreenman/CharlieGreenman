@@ -92,29 +92,48 @@
 I work best on products that need strong architecture, fast iteration, and unusually high technical range.
 
 ```mermaid
-mindmap
-  root((What I Build))
-    AI Systems
-      Product architecture
-      Workflow automation
-      Agentic systems
-    Languages
-      TypeScript
-      JavaScript
-      Python
-    Frameworks
-      React
-      Angular
-      Node.js
-      GraphQL
-    Infrastructure
-      AWS
-      Serverless
-      Data-heavy backends
-    Platform
-      Developer experience
-      Internal tooling
-      Product systems
+flowchart LR
+    root(("What I Build"))
+
+    root --> ai[AI Systems]
+    ai --> ai1[Product architecture]
+    ai --> ai2[Workflow automation]
+    ai --> ai3[Agentic systems]
+
+    root --> lang[Languages]
+    lang --> l1[TypeScript]
+    lang --> l2[JavaScript]
+    lang --> l3[Python]
+
+    root --> fw[Frameworks]
+    fw --> f1[React]
+    fw --> f2[Angular]
+    fw --> f3[Node.js]
+    fw --> f4[GraphQL]
+
+    root --> infra[Infrastructure]
+    infra --> i1[AWS]
+    infra --> i2[Serverless]
+    infra --> i3[Data-heavy backends]
+
+    root --> plat[Platform]
+    plat --> p1[Developer experience]
+    plat --> p2[Internal tooling]
+    plat --> p3[Product systems]
+
+    classDef core fill:#0B1E3F,stroke:#0B1E3F,color:#ffffff
+    classDef ai fill:#1E3A8A,stroke:#0B1E3F,color:#ffffff
+    classDef lang fill:#134E4A,stroke:#064E3B,color:#ffffff
+    classDef fw fill:#334155,stroke:#1E293B,color:#ffffff
+    classDef infra fill:#3730A3,stroke:#1E1B4B,color:#ffffff
+    classDef plat fill:#1F2937,stroke:#111827,color:#ffffff
+
+    class root core
+    class ai,ai1,ai2,ai3 ai
+    class lang,l1,l2,l3 lang
+    class fw,f1,f2,f3,f4 fw
+    class infra,i1,i2,i3 infra
+    class plat,p1,p2,p3 plat
 ```
 
 ## Experience Snapshot
